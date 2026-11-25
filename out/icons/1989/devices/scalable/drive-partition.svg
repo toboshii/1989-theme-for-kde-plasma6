@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Drive Partition">
+  <path fill="#ACB8BF" d="M24 6h8v2h-8z M20 8h12v2h-12z M16 10h16v2h-16z M14 12h18v2h-18z M12 14h20v2h-20z M10 16h22v2h-22z M10 18h22v2h-22z M8 20h24v2h-24z M8 22h24v2h-24z M6 24h32v2h-32z M6 26h34v2h-34z M6 28h34v2h-34z M6 30h22v2h-22z M30 30h4v2h-4z M36 30h4v2h-4z M6 32h52v2h-52z M6 34h24v2h-24z M34 34h24v2h-24z M6 36h52v2h-52z M6 38h52v2h-52z M8 40h20v2h-20z M30 40h4v2h-4z M36 40h20v2h-20z M8 42h48v2h-48z M10 44h44v2h-44z M10 46h44v2h-44z M12 48h40v2h-40z M14 50h36v2h-36z M16 52h32v2h-32z M20 54h24v2h-24z M24 56h16v2h-16z"/>
+  <path fill="#4AAEE5" d="M32 8h12v2h-12z M32 10h14v2h-14z M32 12h18v2h-18z M32 14h20v2h-20z M32 16h22v2h-22z M32 18h22v2h-22z M32 20h22v2h-22z M36 22h20v2h-20z"/>
+  <path fill="#2B9DDE" d="M54 20h2v2h-2z M32 22h4v2h-4z M38 24h20v2h-20z M40 26h18v2h-18z M40 28h18v2h-18z M40 30h18v2h-18z"/>
+  <path fill="#637678" d="M28 30h2v2h-2z M34 30h2v2h-2z M30 34h4v2h-4z M28 40h2v2h-2z M34 40h2v2h-2z"/>
+  <path fill="#6DC1ED" d="M32 6h8v2h-8z M46 10h2v2h-2z"/>
+</svg>

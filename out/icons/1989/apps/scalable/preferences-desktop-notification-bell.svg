@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Preferences Desktop Notification Bell">
+  <path fill="#3992DC" d="M30 18h16v2h-16z M28 20h22v2h-22z M28 22h24v2h-24z M26 24h6v2h-6z M34 24h20v2h-20z M24 26h6v2h-6z M32 26h24v2h-24z M20 28h8v2h-8z M30 28h26v2h-26z M20 30h38v2h-38z M20 32h38v2h-38z M20 34h8v2h-8z M30 34h8v2h-8z M40 34h18v2h-18z M18 36h8v2h-8z M32 36h4v2h-4z M40 36h4v2h-4z M48 36h10v2h-10z M18 38h10v2h-10z M34 38h2v2h-2z M40 38h4v2h-4z M48 38h10v2h-10z M18 40h40v2h-40z M20 42h36v2h-36z M20 44h36v2h-36z M20 46h36v2h-36z M22 48h36v2h-36z M24 50h32v2h-32z M26 52h32v2h-32z M28 54h16v2h-16z M46 54h10v2h-10z M34 56h8v2h-8z"/>
+  <path fill="#28BDF0" d="M16 4h14v2h-14z M12 6h22v2h-22z M10 8h26v2h-26z M8 10h30v2h-30z M8 12h32v2h-32z M6 14h34v2h-34z M6 16h36v2h-36z M6 18h22v2h-22z M6 20h18v2h-18z M6 22h16v2h-16z M6 24h16v2h-16z M6 26h14v2h-14z M6 28h12v2h-12z M6 30h12v2h-12z M6 32h12v2h-12z M6 34h12v2h-12z M4 36h14v2h-14z M4 38h12v2h-12z M4 40h6v2h-6z"/>
+  <path fill="#0576CE" d="M26 20h2v2h-2z M24 22h4v2h-4z M22 24h4v2h-4z M32 24h2v2h-2z M22 26h2v2h-2z M30 26h2v2h-2z M28 28h2v2h-2z M18 32h2v2h-2z M18 34h2v2h-2z M28 34h2v2h-2z M26 36h2v2h-2z"/>
+  <path fill="#219ACB" d="M28 18h2v2h-2z M24 20h2v2h-2z M22 22h2v2h-2z M20 26h2v2h-2z M18 28h2v2h-2z M18 30h2v2h-2z M16 38h2v2h-2z"/>
+  <path fill="#3E91DD" d="M38 34h2v2h-2z M56 42h2v2h-2z M56 50h2v2h-2z M44 54h2v2h-2z M56 54h4v2h-4z M50 56h10v2h-10z"/>
+  <path fill="#D3E6F9" d="M28 36h4v2h-4z M36 36h4v2h-4z M44 36h4v2h-4z M28 38h6v2h-6z M36 38h4v2h-4z M44 38h4v2h-4z"/>
+</svg>

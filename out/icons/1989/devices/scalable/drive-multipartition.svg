@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Drive Multipartition">
+  <path fill="#E8E8E8" d="M26 24h12v2h-12z M24 26h16v2h-16z M24 28h16v2h-16z M24 30h4v2h-4z M30 30h4v2h-4z M36 30h4v2h-4z M22 32h6v2h-6z M30 32h4v2h-4z M36 32h6v2h-6z M24 34h6v2h-6z M34 34h6v2h-6z M24 36h16v2h-16z M26 38h12v2h-12z M30 40h4v2h-4z M44 40h2v2h-2z M40 42h4v2h-4z M38 44h6v2h-6z M36 46h6v2h-6z M34 48h2v2h-2z M38 48h2v2h-2z M32 50h6v2h-6z M28 52h8v2h-8z M26 54h2v2h-2z M32 54h4v2h-4z M24 56h10v2h-10z"/>
+  <path fill="#A76CBE" d="M42 32h16v2h-16z M40 34h18v2h-18z M40 36h18v2h-18z M38 38h20v2h-20z M36 40h8v2h-8z M46 40h10v2h-10z M32 42h8v2h-8z M44 42h12v2h-12z M32 44h6v2h-6z M44 44h10v2h-10z M32 46h4v2h-4z M42 46h10v2h-10z M32 48h2v2h-2z M36 48h2v2h-2z M40 48h10v2h-10z M38 50h10v2h-10z M36 52h10v2h-10z M36 54h6v2h-6z"/>
+  <path fill="#3CA7E2" d="M32 6h8v2h-8z M32 8h12v2h-12z M32 10h16v2h-16z M32 12h18v2h-18z M32 14h20v2h-20z M32 16h22v2h-22z M32 18h22v2h-22z M32 20h24v2h-24z M32 22h24v2h-24z M38 24h20v2h-20z M40 26h18v2h-18z M40 28h18v2h-18z M40 30h18v2h-18z"/>
+  <path fill="#3EC074" d="M24 6h8v2h-8z M20 8h12v2h-12z M16 10h16v2h-16z M14 12h18v2h-18z M12 14h20v2h-20z M10 16h22v2h-22z M10 18h22v2h-22z M8 20h24v2h-24z M8 22h24v2h-24z M6 24h20v2h-20z M6 26h18v2h-18z M6 28h18v2h-18z M6 30h18v2h-18z"/>
+  <path fill="#FDBE53" d="M6 32h16v2h-16z M6 34h18v2h-18z M6 36h18v2h-18z M6 38h20v2h-20z M8 40h20v2h-20z M10 42h22v2h-22z M10 44h22v2h-22z M12 46h20v2h-20z M14 48h18v2h-18z M16 50h16v2h-16z M18 52h10v2h-10z M22 54h4v2h-4z M28 54h4v2h-4z"/>
+  <path fill="#738283" d="M28 30h2v2h-2z M34 30h2v2h-2z M28 32h2v2h-2z M34 32h2v2h-2z M30 34h4v2h-4z M28 40h2v2h-2z M34 40h2v2h-2z"/>
+  <path fill="#6E3E86" d="M52 46h2v2h-2z M50 48h2v2h-2z M48 50h2v2h-2z M46 52h2v2h-2z M42 54h2v2h-2z M34 56h6v2h-6z"/>
+  <path fill="#CA902A" d="M8 42h2v2h-2z M10 46h2v2h-2z M12 48h2v2h-2z M14 50h2v2h-2z M16 52h2v2h-2z M20 54h2v2h-2z"/>
+</svg>

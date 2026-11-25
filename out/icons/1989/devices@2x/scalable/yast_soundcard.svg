@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Yast Soundcard">
+  <path fill="#AFC0C6" d="M12 20h8v4h-8z M12 24h8v4h-8z M12 28h8v4h-8z M12 32h8v4h-8z M12 36h8v4h-8z M12 40h8v4h-8z M8 44h12v4h-12z M12 48h8v4h-8z M12 52h8v4h-8z M8 56h12v4h-12z M12 60h8v4h-8z M80 60h4v4h-4z M12 64h8v4h-8z M64 64h4v4h-4z M80 64h4v4h-4z M8 68h12v4h-12z M64 68h24v4h-24z M12 72h8v4h-8z M64 72h24v4h-24z M12 76h8v4h-8z M64 76h4v4h-4z M76 76h8v4h-8z M8 80h12v4h-12z M80 80h4v4h-4z M12 84h8v4h-8z M12 88h8v4h-8z M12 92h8v4h-8z M12 96h8v4h-8z M12 100h8v4h-8z M12 104h8v4h-8z"/>
+  <path fill="#78AC60" d="M20 36h100v4h-100z M20 40h100v4h-100z M32 44h88v4h-88z M28 48h92v4h-92z M28 52h28v4h-28z M96 52h24v4h-24z M32 56h24v4h-24z M96 56h24v4h-24z M24 60h32v4h-32z M96 60h24v4h-24z M20 64h36v4h-36z M96 64h24v4h-24z M32 68h24v4h-24z M96 68h24v4h-24z M28 72h28v4h-28z M96 72h24v4h-24z M20 76h36v4h-36z M96 76h24v4h-24z M32 80h24v4h-24z M96 80h24v4h-24z M28 84h28v4h-28z M96 84h24v4h-24z M20 88h36v4h-36z M96 88h24v4h-24z M20 92h8v4h-8z M36 92h84v4h-84z M20 96h100v4h-100z M44 100h60v4h-60z"/>
+  <path fill="#414548" d="M56 52h40v4h-40z M56 56h40v4h-40z M56 60h24v4h-24z M84 60h12v4h-12z M56 64h8v4h-8z M68 64h12v4h-12z M84 64h12v4h-12z M56 68h8v4h-8z M88 68h8v4h-8z M56 72h8v4h-8z M88 72h8v4h-8z M56 76h8v4h-8z M68 76h8v4h-8z M84 76h12v4h-12z M56 80h24v4h-24z M84 80h12v4h-12z M56 84h40v4h-40z M56 88h40v4h-40z"/>
+  <path fill="#E4D556" d="M20 52h8v4h-8z M20 56h12v4h-12z M20 60h4v4h-4z M44 104h60v4h-60z"/>
+  <path fill="#22A7F0" d="M20 68h12v4h-12z M20 72h8v4h-8z"/>
+  <path fill="#26C281" d="M20 80h12v4h-12z M20 84h8v4h-8z"/>
+  <path fill="#E00A5E" d="M20 44h12v4h-12z M20 48h8v4h-8z"/>
+  <path fill="#000000" d="M28 92h8v4h-8z"/>
+</svg>

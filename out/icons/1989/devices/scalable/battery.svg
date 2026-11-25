@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Battery">
+  <path fill="#32988E" d="M24 6h16v2h-16z M20 8h24v2h-24z M16 10h32v2h-32z M14 12h36v2h-36z M12 14h40v2h-40z M10 16h44v2h-44z M10 18h44v2h-44z M8 20h48v2h-48z M8 22h22v2h-22z M32 22h24v2h-24z M6 24h24v2h-24z M34 24h24v2h-24z M6 26h22v2h-22z M32 26h26v2h-26z M6 28h22v2h-22z M32 28h26v2h-26z M6 30h20v2h-20z M38 30h20v2h-20z M6 32h20v2h-20z M38 32h20v2h-20z M6 34h26v2h-26z M36 34h22v2h-22z M6 36h26v2h-26z M36 36h22v2h-22z M6 38h10v2h-10z M24 38h8v2h-8z M34 38h24v2h-24z M8 40h4v2h-4z M34 40h22v2h-22z M8 42h2v2h-2z M32 42h24v2h-24z M36 44h18v2h-18z M10 46h2v2h-2z M42 46h6v2h-6z M52 46h2v2h-2z M12 48h2v2h-2z M50 48h2v2h-2z M14 50h2v2h-2z M48 50h2v2h-2z M16 52h2v2h-2z M46 52h2v2h-2z M20 54h2v2h-2z M42 54h2v2h-2z M24 56h16v2h-16z"/>
+  <path fill="#1BAA80" d="M16 38h8v2h-8z M12 40h16v2h-16z M10 42h20v2h-20z M10 44h26v2h-26z M12 46h28v2h-28z M48 46h4v2h-4z M14 48h36v2h-36z M16 50h32v2h-32z M18 52h28v2h-28z M22 54h20v2h-20z"/>
+  <path fill="#D9FEC2" d="M30 24h4v2h-4z M28 26h4v2h-4z M28 28h4v2h-4z M26 30h12v2h-12z M26 32h12v2h-12z M32 34h4v2h-4z M32 36h4v2h-4z"/>
+  <path fill="#C6FDA3" d="M32 38h2v2h-2z M30 40h4v2h-4z M30 42h2v2h-2z"/>
+  <path fill="#52BA69" d="M40 46h2v2h-2z"/>
+  <path fill="#82C555" d="M28 40h2v2h-2z"/>
+  <path fill="#EEFFE1" d="M30 22h2v2h-2z"/>
+</svg>

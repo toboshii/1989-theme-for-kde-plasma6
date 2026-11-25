@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Firewall Applet">
+  <path fill="#0881D8" d="M64 8h12v4h-12z M64 12h16v4h-16z M64 16h24v4h-24z M64 20h32v4h-32z M64 24h52v4h-52z M64 28h56v4h-56z M64 32h56v4h-56z M64 36h56v4h-56z M64 40h56v4h-56z M64 44h56v4h-56z M64 48h56v4h-56z M64 52h56v4h-56z M64 56h52v4h-52z M64 60h52v4h-52z M12 64h4v4h-4z M12 68h4v4h-4z"/>
+  <path fill="#046CC0" d="M16 64h48v4h-48z M16 68h48v4h-48z M16 72h48v4h-48z M16 76h48v4h-48z M20 80h44v4h-44z M24 84h40v4h-40z M24 88h40v4h-40z M28 92h36v4h-36z M36 96h28v4h-28z M40 100h24v4h-24z M44 104h20v4h-20z M48 108h16v4h-16z M56 112h8v4h-8z M60 116h4v4h-4z"/>
+  <path fill="#0D4E92" d="M64 64h52v4h-52z M64 68h52v4h-52z M64 72h48v4h-48z M64 76h48v4h-48z M64 80h44v4h-44z M64 84h40v4h-40z M64 88h40v4h-40z M64 92h36v4h-36z M64 96h28v4h-28z M64 100h24v4h-24z M64 104h20v4h-20z M64 108h16v4h-16z M64 112h8v4h-8z M64 116h4v4h-4z"/>
+  <path fill="#32C8EB" d="M52 8h12v4h-12z M48 12h16v4h-16z M40 16h24v4h-24z M32 20h32v4h-32z M12 24h52v4h-52z M8 28h56v4h-56z M8 32h56v4h-56z M8 36h56v4h-56z M8 40h56v4h-56z M8 44h56v4h-56z M8 48h56v4h-56z M8 52h56v4h-56z M12 56h52v4h-52z M12 60h52v4h-52z"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Weather Snow Day">
+  <path fill="#E8F5FF" d="M14 4h4v2h-4z M10 6h12v2h-12z M8 8h16v2h-16z M8 10h20v2h-20z M4 12h26v2h-26z M4 14h26v2h-26z M2 16h26v2h-26z M4 18h12v2h-12z M18 18h8v2h-8z M4 20h10v2h-10z M20 20h6v2h-6z M8 22h4v2h-4z M20 22h2v2h-2z"/>
+  <path fill="#3E98EA" d="M16 18h2v2h-2z M14 20h6v2h-6z M12 22h8v2h-8z M14 24h6v2h-6z"/>
+  <path fill="#C8DEF0" d="M28 16h2v2h-2z M26 18h4v2h-4z M26 20h2v2h-2z M22 22h4v2h-4z"/>
+</svg>

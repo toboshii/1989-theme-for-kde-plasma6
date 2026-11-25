@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Input Touchpad">
+  <path fill="#BDC5E3" d="M4 2h24v2h-24z M2 4h2v2h-2z M28 4h2v2h-2z M2 6h2v2h-2z M28 6h2v2h-2z M2 8h28v2h-28z M2 10h10v2h-10z M16 10h14v2h-14z M2 12h12v2h-12z M18 12h12v2h-12z M2 14h12v2h-12z M20 14h10v2h-10z M2 16h12v2h-12z M16 16h14v2h-14z M2 18h12v2h-12z M16 18h14v2h-14z M2 20h28v2h-28z M2 22h28v2h-28z M2 24h2v2h-2z M28 24h2v2h-2z M2 26h2v2h-2z M14 26h4v2h-4z M28 26h2v2h-2z M4 28h24v2h-24z"/>
+  <path fill="#83878A" d="M4 4h24v2h-24z M4 6h24v2h-24z M4 24h24v2h-24z M4 26h10v2h-10z M18 26h10v2h-10z"/>
+  <path fill="#1A8CF3" d="M18 14h2v2h-2z M14 16h2v2h-2z M14 18h2v2h-2z"/>
+  <path fill="#1EB3F8" d="M12 10h4v2h-4z M14 12h4v2h-4z M14 14h4v2h-4z"/>
+</svg>

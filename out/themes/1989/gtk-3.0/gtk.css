@@ -1,0 +1,34 @@
+* {
+  border-radius: 0;
+  font-family: Hack, monospace;
+}
+window, .background {
+  background-color: #181821;
+  color: #bdc5e3;
+}
+headerbar, .titlebar {
+  background-color: rgba(24, 24, 33, 0.86);
+  color: #cdd6f4;
+  border-bottom: 1px solid #dd9d89;
+  box-shadow: none;
+}
+button, entry, combobox, notebook tab {
+  border-radius: 0;
+  border: 1px solid #8d939f;
+  background-color: #232332;
+  color: #bdc5e3;
+  box-shadow: none;
+}
+button:hover, button:focus, entry:focus {
+  border-color: #dd9d89;
+}
+selection, *:selected, treeview:selected {
+  background-color: #d1b7f1;
+  color: #222425;
+}
+scrollbar slider {
+  border-radius: 0;
+  background-color: #dd9d89;
+  min-width: 8px;
+  min-height: 8px;
+}

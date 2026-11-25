@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Camera Video">
+  <path fill="#BBC3CB" d="M6 2h2v2h-2z M10 2h2v2h-2z M4 4h2v2h-2z M2 6h2v2h-2z M16 10h14v2h-14z M4 14h2v2h-2z M4 16h12v2h-12z M4 18h2v2h-2z M12 18h4v2h-4z M4 20h2v2h-2z M28 20h2v2h-2z M4 22h2v2h-2z M14 22h2v2h-2z M28 22h2v2h-2z M4 24h2v2h-2z M4 26h2v2h-2z M4 28h10v2h-10z"/>
+  <path fill="#2E3133" d="M8 2h2v2h-2z M6 4h8v2h-8z M4 6h12v2h-12z M2 8h14v2h-14z M2 10h14v2h-14z M2 12h14v2h-14z M6 14h8v2h-8z M6 18h6v2h-6z M6 20h8v2h-8z M6 22h8v2h-8z M6 24h8v2h-8z M6 26h8v2h-8z"/>
+  <path fill="#1D9BCD" d="M28 12h2v2h-2z M24 14h6v2h-6z M20 16h10v2h-10z M18 18h12v2h-12z M14 20h12v2h-12z M16 22h6v2h-6z"/>
+  <path fill="#2CBCD9" d="M22 12h6v2h-6z M16 14h8v2h-8z M16 16h4v2h-4z M16 18h2v2h-2z"/>
+  <path fill="#0E7AC2" d="M26 20h2v2h-2z M22 22h6v2h-6z"/>
+  <path fill="#3ADAE3" d="M16 12h6v2h-6z M14 14h2v2h-2z"/>
+</svg>

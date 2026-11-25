@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Kwallet">
+  <path fill="#B59660" d="M6 14h2v2h-2z M6 16h52v2h-52z M6 18h52v2h-52z M6 20h52v2h-52z M6 22h52v2h-52z M6 24h52v2h-52z M6 26h52v2h-52z M6 28h54v2h-54z M6 30h38v2h-38z M6 32h36v2h-36z M6 34h34v2h-34z M6 36h34v2h-34z M6 38h34v2h-34z M6 40h34v2h-34z M6 42h36v2h-36z M6 44h40v2h-40z M6 46h52v2h-52z M6 48h52v2h-52z M6 50h52v2h-52z M6 52h52v2h-52z M6 54h52v2h-52z M8 56h50v2h-50z"/>
+  <path fill="#88622F" d="M6 6h44v2h-44z M6 8h44v2h-44z M6 10h44v2h-44z M6 12h44v2h-44z M8 14h42v2h-42z M44 30h18v2h-18z M42 32h20v2h-20z M40 34h4v2h-4z M52 34h10v2h-10z M40 36h4v2h-4z M52 36h10v2h-10z M40 38h4v2h-4z M52 38h10v2h-10z M40 40h6v2h-6z M50 40h12v2h-12z M42 42h20v2h-20z M46 44h14v2h-14z"/>
+  <path fill="#E3E3E3" d="M44 34h8v2h-8z M44 36h8v2h-8z M44 38h8v2h-8z M46 40h4v2h-4z"/>
+</svg>

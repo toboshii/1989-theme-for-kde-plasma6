@@ -1,0 +1,8 @@
+[SddmGreeterTheme]
+Name=1989
+Description=1989 login
+License=GPLv3
+Type=sddm-theme
+Theme-Id=1989
+Theme-API=2.0
+MainScript=Main.qml

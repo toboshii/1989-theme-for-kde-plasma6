@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [{"Name": "1989"}],
+    "Id": "1989Green",
+    "License": "GPLv3",
+    "Name": "1989 Green",
+    "Description": "1989 desktop, 1989 Green"
+  }
+}

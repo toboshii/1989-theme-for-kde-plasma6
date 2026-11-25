@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="125" viewBox="0 0 143 125">
+  <defs>
+    <radialGradient id="decoration-tl" cx="28" cy="28" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0.42"/><stop offset="0.55" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0"/></radialGradient>
+<linearGradient id="decoration-tl-side" x1="0" y1="28" x2="28" y2="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<linearGradient id="decoration-top-shade" x1="29" y1="0" x2="29" y2="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<radialGradient id="decoration-tr" cx="70" cy="28" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0.42"/><stop offset="0.55" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0"/></radialGradient>
+<linearGradient id="decoration-tr-side" x1="98" y1="28" x2="70" y2="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<linearGradient id="decoration-left-shade" x1="0" y1="56" x2="28" y2="56" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<linearGradient id="decoration-right-shade" x1="98" y1="56" x2="70" y2="56" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<radialGradient id="decoration-bl" cx="28" cy="97" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0.42"/><stop offset="0.55" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0"/></radialGradient>
+<linearGradient id="decoration-bottom-shade" x1="29" y1="125" x2="29" y2="97" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<radialGradient id="decoration-br" cx="70" cy="97" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0.42"/><stop offset="0.55" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0"/></radialGradient>
+    <radialGradient id="decoration-inactive-tl" cx="28" cy="28" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0.42"/><stop offset="0.55" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0"/></radialGradient>
+<linearGradient id="decoration-inactive-tl-side" x1="0" y1="28" x2="28" y2="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<linearGradient id="decoration-inactive-top-shade" x1="29" y1="0" x2="29" y2="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<radialGradient id="decoration-inactive-tr" cx="70" cy="28" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0.42"/><stop offset="0.55" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0"/></radialGradient>
+<linearGradient id="decoration-inactive-tr-side" x1="98" y1="28" x2="70" y2="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<linearGradient id="decoration-inactive-left-shade" x1="0" y1="56" x2="28" y2="56" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<linearGradient id="decoration-inactive-right-shade" x1="98" y1="56" x2="70" y2="56" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<radialGradient id="decoration-inactive-bl" cx="28" cy="97" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0.42"/><stop offset="0.55" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0"/></radialGradient>
+<linearGradient id="decoration-inactive-bottom-shade" x1="29" y1="125" x2="29" y2="97" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0"/><stop offset="0.45" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0.42"/></linearGradient>
+<radialGradient id="decoration-inactive-br" cx="70" cy="97" r="28" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#08080e" stop-opacity="0.42"/><stop offset="0.55" stop-color="#08080e" stop-opacity="0.05"/><stop offset="1" stop-color="#08080e" stop-opacity="0"/></radialGradient>
+  </defs>
+  
+  <g id="decoration-topleft">
+    <rect x="0" y="0" width="29" height="28" fill="url(#decoration-tl)"/>
+    <rect x="0" y="28" width="28" height="28" fill="url(#decoration-tl-side)"/>
+    <rect x="28" y="28" width="1" height="28" fill="#dd9d89"/>
+  </g>
+  <g id="decoration-top">
+    <rect x="29" y="0" width="40" height="28" fill="url(#decoration-top-shade)"/>
+    <rect x="29" y="28" width="40" height="1" fill="#dd9d89"/>
+    <rect x="29" y="29" width="40" height="27" fill="#181821"/>
+  </g>
+  <g id="decoration-topright">
+    <rect x="69" y="0" width="29" height="28" fill="url(#decoration-tr)"/>
+    <rect x="70" y="28" width="28" height="28" fill="url(#decoration-tr-side)"/>
+    <rect x="69" y="28" width="1" height="28" fill="#dd9d89"/>
+  </g>
+  <g id="decoration-left">
+    <rect x="0" y="56" width="28" height="40" fill="url(#decoration-left-shade)"/>
+    <rect x="28" y="56" width="1" height="40" fill="#dd9d89"/>
+  </g>
+  <rect id="decoration-center" x="29" y="56" width="40" height="40" fill="#181821"/>
+  <g id="decoration-right">
+    <rect x="70" y="56" width="28" height="40" fill="url(#decoration-right-shade)"/>
+    <rect x="69" y="56" width="1" height="40" fill="#dd9d89"/>
+  </g>
+  <g id="decoration-bottomleft">
+    <rect x="0" y="97" width="29" height="28" fill="url(#decoration-bl)"/>
+    <rect x="0" y="96" width="28" height="1" fill="url(#decoration-left-shade)"/>
+    <rect x="28" y="96" width="1" height="1" fill="#dd9d89"/>
+  </g>
+  <g id="decoration-bottom">
+    <rect x="29" y="97" width="40" height="28" fill="url(#decoration-bottom-shade)"/>
+    <rect x="29" y="96" width="40" height="1" fill="#dd9d89"/>
+  </g>
+  <g id="decoration-bottomright">
+    <rect x="69" y="97" width="29" height="28" fill="url(#decoration-br)"/>
+    <rect x="70" y="96" width="28" height="1" fill="url(#decoration-right-shade)"/>
+    <rect x="69" y="96" width="1" height="1" fill="#dd9d89"/>
+  </g>
+  
+  <g id="decoration-inactive-topleft">
+    <rect x="0" y="0" width="29" height="28" fill="url(#decoration-inactive-tl)"/>
+    <rect x="0" y="28" width="28" height="28" fill="url(#decoration-inactive-tl-side)"/>
+    <rect x="28" y="28" width="1" height="28" fill="#6c7086"/>
+  </g>
+  <g id="decoration-inactive-top">
+    <rect x="29" y="0" width="40" height="28" fill="url(#decoration-inactive-top-shade)"/>
+    <rect x="29" y="28" width="40" height="1" fill="#6c7086"/>
+    <rect x="29" y="29" width="40" height="27" fill="#181821"/>
+  </g>
+  <g id="decoration-inactive-topright">
+    <rect x="69" y="0" width="29" height="28" fill="url(#decoration-inactive-tr)"/>
+    <rect x="70" y="28" width="28" height="28" fill="url(#decoration-inactive-tr-side)"/>
+    <rect x="69" y="28" width="1" height="28" fill="#6c7086"/>
+  </g>
+  <g id="decoration-inactive-left">
+    <rect x="0" y="56" width="28" height="40" fill="url(#decoration-inactive-left-shade)"/>
+    <rect x="28" y="56" width="1" height="40" fill="#6c7086"/>
+  </g>
+  <rect id="decoration-inactive-center" x="29" y="56" width="40" height="40" fill="#181821"/>
+  <g id="decoration-inactive-right">
+    <rect x="70" y="56" width="28" height="40" fill="url(#decoration-inactive-right-shade)"/>
+    <rect x="69" y="56" width="1" height="40" fill="#6c7086"/>
+  </g>
+  <g id="decoration-inactive-bottomleft">
+    <rect x="0" y="97" width="29" height="28" fill="url(#decoration-inactive-bl)"/>
+    <rect x="0" y="96" width="28" height="1" fill="url(#decoration-inactive-left-shade)"/>
+    <rect x="28" y="96" width="1" height="1" fill="#6c7086"/>
+  </g>
+  <g id="decoration-inactive-bottom">
+    <rect x="29" y="97" width="40" height="28" fill="url(#decoration-inactive-bottom-shade)"/>
+    <rect x="29" y="96" width="40" height="1" fill="#6c7086"/>
+  </g>
+  <g id="decoration-inactive-bottomright">
+    <rect x="69" y="97" width="29" height="28" fill="url(#decoration-inactive-br)"/>
+    <rect x="70" y="96" width="28" height="1" fill="url(#decoration-inactive-right-shade)"/>
+    <rect x="69" y="96" width="1" height="1" fill="#6c7086"/>
+  </g>
+  <rect id="decoration-maximized-center" x="29" y="56" width="40" height="40" fill="#181821"/>
+  <rect id="decoration-maximized-inactive-center" x="29" y="56" width="40" height="40" fill="#181821"/>
+  
+  <rect id="hint-left-margin" x="106" y="0" width="29" height="4" fill="#ff00ff"/>
+  <rect id="hint-right-margin" x="106" y="8" width="29" height="4" fill="#ff00ff"/>
+  <rect id="hint-top-margin" x="106" y="16" width="4" height="56" fill="#00ff00"/>
+  <rect id="hint-bottom-margin" x="106" y="76" width="4" height="29" fill="#00ffff"/>
+</svg>

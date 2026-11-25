@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "zayronxio / local fork"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "Amethyst Haze fork tuned for the 1989Green look-and-feel",
+        "EnabledByDefault": true,
+        "Id": "1989Green",
+        "License": "GPLv3",
+        "Name": "1989 Green",
+        "Version": "1.0.8"
+    },
+    "X-Plasma-API": "5.0"
+}

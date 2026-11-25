@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Cockos Reaper">
+  <path fill="#5FC624" d="M28 44h12v4h-12z M20 48h20v4h-20z M16 52h28v4h-28z M12 56h36v4h-36z M8 60h44v4h-44z M8 64h48v4h-48z M8 68h52v4h-52z M8 72h52v4h-52z M8 76h52v4h-52z M8 80h52v4h-52z M8 84h56v4h-56z M8 88h56v4h-56z M8 92h56v4h-56z M8 96h56v4h-56z M8 100h56v4h-56z M12 104h52v4h-52z M12 108h4v4h-4z M16 112h8v4h-8z M24 116h36v4h-36z"/>
+  <path fill="#FFFFFF" d="M40 28h36v4h-36z M32 32h20v4h-20z M84 32h4v4h-4z M32 36h12v4h-12z M36 40h8v4h-8z M40 44h8v4h-8z M40 48h12v4h-12z M44 52h8v4h-8z M48 56h8v4h-8z M52 60h8v4h-8z M56 64h8v4h-8z M60 68h4v4h-4z M60 72h4v4h-4z M60 76h4v4h-4z M60 80h8v4h-8z M64 84h4v4h-4z"/>
+  <path fill="#FB594E" d="M52 32h32v4h-32z M44 36h48v4h-48z M44 40h52v4h-52z M48 44h56v4h-56z M52 48h52v4h-52z M52 52h56v4h-56z M56 56h56v4h-56z M60 60h56v4h-56z M64 64h56v4h-56z M64 68h56v4h-56z M64 72h56v4h-56z M64 76h56v4h-56z M68 80h52v4h-52z M68 84h52v4h-52z M68 88h52v4h-52z"/>
+  <path fill="#1B9AD9" d="M36 28h4v4h-4z M76 28h4v4h-4z M116 32h4v4h-4z M92 36h4v4h-4z M96 40h24v4h-24z M104 44h16v4h-16z M104 48h16v4h-16z M108 52h12v4h-12z M112 56h8v4h-8z M116 60h4v4h-4z"/>
+  <path fill="#10A9F5" d="M24 8h80v4h-80z M24 12h88v4h-88z M24 16h92v4h-92z M28 20h88v4h-88z M28 24h92v4h-92z M28 28h8v4h-8z M80 28h40v4h-40z M88 32h28v4h-28z M96 36h24v4h-24z"/>
+  <path fill="#519C26" d="M28 32h4v4h-4z M16 36h16v4h-16z M8 40h28v4h-28z M8 44h20v4h-20z M8 48h12v4h-12z M8 52h8v4h-8z M8 56h4v4h-4z M16 108h44v4h-44z M24 112h36v4h-36z"/>
+  <path fill="#F62D3D" d="M64 88h4v4h-4z M64 92h56v4h-56z M64 96h56v4h-56z M64 100h56v4h-56z M64 104h52v4h-52z M60 108h56v4h-56z M60 112h52v4h-52z M60 116h44v4h-44z"/>
+  <path fill="#353B3B" d="M16 12h8v4h-8z M12 16h12v4h-12z M12 20h16v4h-16z M8 24h20v4h-20z M8 28h20v4h-20z M8 32h20v4h-20z M8 36h8v4h-8z"/>
+</svg>

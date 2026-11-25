@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Sort Presence">
+  <path fill="#27AE60" d="M8 6h2v2h-2z M6 8h4v2h-4z M8 14h2v2h-2z M6 16h4v2h-4z"/>
+  <path fill="#BDC5E3" d="M12 6h16v2h-16z M12 14h16v2h-16z M12 22h16v2h-16z"/>
+  <path fill="#DA4453" d="M8 22h2v2h-2z M6 24h4v2h-4z M26 26h2v2h-2z"/>
+</svg>

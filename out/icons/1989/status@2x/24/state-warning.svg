@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" shape-rendering="crispEdges" role="img" aria-label="State Warning">
+  <path fill="#FFFFFF" d="M20 2h2v2h-2z M16 4h10v2h-10z M10 6h18v2h-18z M10 8h22v2h-22z M10 10h24v2h-24z M8 12h28v2h-28z M8 14h30v2h-30z M2 16h40v2h-40z M0 18h18v2h-18z M30 18h12v2h-12z M0 20h14v2h-14z M34 20h10v2h-10z M0 22h14v2h-14z M34 22h14v2h-14z M0 24h12v2h-12z M22 24h4v2h-4z M36 24h12v2h-12z M2 26h10v2h-10z M22 26h4v2h-4z M36 26h12v2h-12z M6 28h2v2h-2z M22 28h4v2h-4z M36 28h2v2h-2z M22 30h4v2h-4z"/>
+  <path fill="#FFA100" d="M18 18h12v2h-12z M14 20h20v2h-20z M14 22h20v2h-20z M12 24h10v2h-10z M26 24h10v2h-10z M12 26h10v2h-10z M26 26h10v2h-10z M12 28h10v2h-10z M26 28h10v2h-10z M12 30h10v2h-10z M26 30h10v2h-10z M14 32h20v2h-20z M16 34h18v2h-18z M18 36h12v2h-12z"/>
+  <path fill="#FF7D00" d="M12 32h2v2h-2z M34 32h2v2h-2z M14 34h2v2h-2z M14 36h4v2h-4z M30 36h4v2h-4z M18 38h12v2h-12z M22 40h4v2h-4z"/>
+</svg>

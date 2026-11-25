@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="org.cachyos.scx-manager">
+  <path fill="#2552FE" d="M28 28h8v4h-8z M24 32h16v4h-16z M24 36h20v4h-20z M24 40h24v4h-24z M28 44h24v4h-24z M28 48h28v4h-28z M28 52h32v4h-32z M32 56h24v4h-24z M36 60h16v4h-16z M36 64h16v4h-16z M44 68h12v4h-12z M48 72h12v4h-12z M68 72h4v4h-4z M52 76h24v4h-24z M56 80h24v4h-24z M60 84h24v4h-24z M64 88h24v4h-24z M68 92h24v4h-24z M72 96h24v4h-24z M84 100h12v4h-12z"/>
+  <path fill="#632CFE" d="M36 20h4v4h-4z M32 24h12v4h-12z M36 28h20v4h-20z M40 32h20v4h-20z M44 36h20v4h-20z M48 40h20v4h-20z M52 44h20v4h-20z M56 48h20v4h-20z M76 52h4v4h-4z M76 56h8v4h-8z M76 60h12v4h-12z M76 64h16v4h-16z M72 68h24v4h-24z M72 72h28v4h-28z M76 76h24v4h-24z M80 80h20v4h-20z M84 84h20v4h-20z M88 88h16v4h-16z M92 92h12v4h-12z M96 96h4v4h-4z"/>
+  <path fill="#29A0FF" d="M16 52h12v4h-12z M16 56h16v4h-16z M16 60h20v4h-20z M16 64h20v4h-20z M16 68h28v4h-28z M16 72h32v4h-32z M28 76h24v4h-24z M28 80h28v4h-28z M32 84h28v4h-28z M36 88h28v4h-28z M40 92h28v4h-28z M44 96h28v4h-28z M52 100h24v4h-24z M52 104h24v4h-24z M52 108h24v4h-24z"/>
+  <path fill="#B114FF" d="M52 16h24v4h-24z M52 20h24v4h-24z M52 24h24v4h-24z M56 28h20v4h-20z M60 32h16v4h-16z M64 36h12v4h-12z M68 40h8v4h-8z M72 44h4v4h-4z M80 52h32v4h-32z M84 56h28v4h-28z M88 60h24v4h-24z M92 64h20v4h-20z M96 68h16v4h-16z M100 72h12v4h-12z"/>
+  <path fill="#2DDCFF" d="M24 84h8v4h-8z M24 88h12v4h-12z M24 92h16v4h-16z M28 96h16v4h-16z M32 100h12v4h-12z"/>
+</svg>

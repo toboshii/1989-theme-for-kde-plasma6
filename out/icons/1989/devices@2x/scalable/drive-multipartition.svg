@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Drive Multipartition">
+  <path fill="#E8E8E8" d="M52 48h24v4h-24z M48 52h32v4h-32z M48 56h32v4h-32z M48 60h8v4h-8z M60 60h8v4h-8z M72 60h8v4h-8z M44 64h12v4h-12z M60 64h8v4h-8z M72 64h12v4h-12z M48 68h12v4h-12z M68 68h12v4h-12z M48 72h32v4h-32z M52 76h24v4h-24z M60 80h8v4h-8z M88 80h4v4h-4z M80 84h8v4h-8z M76 88h12v4h-12z M72 92h12v4h-12z M68 96h4v4h-4z M76 96h4v4h-4z M64 100h12v4h-12z M56 104h16v4h-16z M52 108h4v4h-4z M64 108h8v4h-8z M48 112h20v4h-20z"/>
+  <path fill="#A76CBE" d="M84 64h32v4h-32z M80 68h36v4h-36z M80 72h36v4h-36z M76 76h40v4h-40z M72 80h16v4h-16z M92 80h20v4h-20z M64 84h16v4h-16z M88 84h24v4h-24z M64 88h12v4h-12z M88 88h20v4h-20z M64 92h8v4h-8z M84 92h20v4h-20z M64 96h4v4h-4z M72 96h4v4h-4z M80 96h20v4h-20z M76 100h20v4h-20z M72 104h20v4h-20z M72 108h12v4h-12z"/>
+  <path fill="#3CA7E2" d="M64 12h16v4h-16z M64 16h24v4h-24z M64 20h32v4h-32z M64 24h36v4h-36z M64 28h40v4h-40z M64 32h44v4h-44z M64 36h44v4h-44z M64 40h48v4h-48z M64 44h48v4h-48z M76 48h40v4h-40z M80 52h36v4h-36z M80 56h36v4h-36z M80 60h36v4h-36z"/>
+  <path fill="#3EC074" d="M48 12h16v4h-16z M40 16h24v4h-24z M32 20h32v4h-32z M28 24h36v4h-36z M24 28h40v4h-40z M20 32h44v4h-44z M20 36h44v4h-44z M16 40h48v4h-48z M16 44h48v4h-48z M12 48h40v4h-40z M12 52h36v4h-36z M12 56h36v4h-36z M12 60h36v4h-36z"/>
+  <path fill="#FDBE53" d="M12 64h32v4h-32z M12 68h36v4h-36z M12 72h36v4h-36z M12 76h40v4h-40z M16 80h40v4h-40z M20 84h44v4h-44z M20 88h44v4h-44z M24 92h40v4h-40z M28 96h36v4h-36z M32 100h32v4h-32z M36 104h20v4h-20z M44 108h8v4h-8z M56 108h8v4h-8z"/>
+  <path fill="#738283" d="M56 60h4v4h-4z M68 60h4v4h-4z M56 64h4v4h-4z M68 64h4v4h-4z M60 68h8v4h-8z M56 80h4v4h-4z M68 80h4v4h-4z"/>
+  <path fill="#6E3E86" d="M104 92h4v4h-4z M100 96h4v4h-4z M96 100h4v4h-4z M92 104h4v4h-4z M84 108h4v4h-4z M68 112h12v4h-12z"/>
+  <path fill="#CA902A" d="M16 84h4v4h-4z M20 92h4v4h-4z M24 96h4v4h-4z M28 100h4v4h-4z M32 104h4v4h-4z M40 108h4v4h-4z"/>
+</svg>

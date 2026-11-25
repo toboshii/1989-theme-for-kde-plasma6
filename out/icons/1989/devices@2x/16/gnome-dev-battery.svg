@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Gnome Dev Battery">
+  <path fill="#32978E" d="M14 2h4v2h-4z M8 4h16v2h-16z M6 6h20v2h-20z M4 8h24v2h-24z M4 10h24v2h-24z M4 12h10v2h-10z M16 12h12v2h-12z M2 14h12v2h-12z M16 14h14v2h-14z M2 16h12v2h-12z M18 16h12v2h-12z M4 18h12v2h-12z M18 18h10v2h-10z M4 20h2v2h-2z M16 20h12v2h-12z M20 22h8v2h-8z M22 26h2v2h-2z M14 28h4v2h-4z"/>
+  <path fill="#1DAD7E" d="M6 20h10v2h-10z M4 22h16v2h-16z M6 24h20v2h-20z M8 26h14v2h-14z"/>
+  <path fill="#E9FEDB" d="M14 12h2v2h-2z M14 14h2v2h-2z M14 16h2v2h-2z"/>
+  <path fill="#D5FEBB" d="M16 16h2v2h-2z M16 18h2v2h-2z"/>
+</svg>

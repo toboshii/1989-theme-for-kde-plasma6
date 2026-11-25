@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Radio">
+  <path fill="#59646E" d="M4 8h14v2h-14z M2 10h16v2h-16z M2 12h16v2h-16z M2 14h56v2h-56z M2 16h58v2h-58z M2 18h58v2h-58z M2 20h58v2h-58z M2 22h58v2h-58z M2 24h58v2h-58z M2 26h42v2h-42z M48 26h4v2h-4z M56 26h4v2h-4z M2 28h42v2h-42z M48 28h2v2h-2z M56 28h4v2h-4z M2 30h44v2h-44z M48 30h4v2h-4z M54 30h6v2h-6z M2 32h58v2h-58z M2 34h58v2h-58z M2 36h58v2h-58z M2 38h58v2h-58z M2 40h58v2h-58z M2 42h58v2h-58z M2 44h8v2h-8z M52 44h8v2h-8z M2 46h8v2h-8z M54 46h6v2h-6z M2 48h8v2h-8z M54 48h6v2h-6z M2 50h8v2h-8z M54 50h6v2h-6z M2 52h8v2h-8z M52 52h8v2h-8z M2 54h8v2h-8z M52 54h8v2h-8z M2 56h58v2h-58z M4 58h54v2h-54z"/>
+  <path fill="#1A60DA" d="M48 2h8v2h-8z M38 4h16v2h-16z M30 6h16v2h-16z M20 8h16v2h-16z M18 10h8v2h-8z"/>
+  <path fill="#252525" d="M10 44h42v2h-42z M10 46h44v2h-44z M10 48h44v2h-44z M10 50h44v2h-44z M10 52h42v2h-42z"/>
+  <path fill="#53C2F3" d="M44 26h4v2h-4z M44 28h4v2h-4z M46 30h2v2h-2z M10 54h42v2h-42z"/>
+  <path fill="#6CE0F8" d="M52 26h4v2h-4z M50 28h6v2h-6z M52 30h2v2h-2z"/>
+</svg>

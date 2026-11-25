@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Maps App">
+  <path fill="#D03902" d="M48 8h32v4h-32z M40 12h48v4h-48z M32 16h64v4h-64z M28 20h72v4h-72z M24 24h80v4h-80z M24 28h80v4h-80z M20 32h32v4h-32z M80 32h28v4h-28z M20 36h28v4h-28z M80 36h28v4h-28z M16 40h28v4h-28z M84 40h28v4h-28z M16 44h28v4h-28z M84 44h28v4h-28z M16 48h28v4h-28z M84 48h28v4h-28z M16 52h28v4h-28z M84 52h28v4h-28z M16 56h28v4h-28z M84 56h28v4h-28z M16 60h24v4h-24z M88 60h24v4h-24z M16 64h32v4h-32z M84 64h28v4h-28z M20 68h28v4h-28z M84 68h24v4h-24z M20 72h32v4h-32z M72 72h36v4h-36z M20 76h88v4h-88z M24 80h80v4h-80z M28 84h20v4h-20z M80 84h20v4h-20z M32 88h8v4h-8z M88 88h8v4h-8z M40 92h48v4h-48z M40 96h48v4h-48z M52 112h24v4h-24z M56 116h16v4h-16z M60 120h8v4h-8z"/>
+  <path fill="#FFFFFF" d="M52 32h24v4h-24z M48 36h32v4h-32z M44 40h40v4h-40z M44 44h40v4h-40z M44 48h40v4h-40z M44 52h40v4h-40z M44 56h40v4h-40z M44 60h40v4h-40z M48 64h32v4h-32z M48 68h28v4h-28z M56 72h16v4h-16z"/>
+  <path fill="#E44E12" d="M48 84h32v4h-32z M40 88h48v4h-48z M36 92h4v4h-4z M88 92h4v4h-4z M44 100h40v4h-40z M44 104h40v4h-40z M48 108h32v4h-32z"/>
+  <path fill="#AB3301" d="M76 32h4v4h-4z M40 60h4v4h-4z M84 60h4v4h-4z M80 64h4v4h-4z M76 68h8v4h-8z M52 72h4v4h-4z"/>
+</svg>

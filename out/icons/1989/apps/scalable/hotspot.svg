@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Hotspot">
+  <path fill="#FF0606" d="M18 44h10v2h-10z M34 44h10v2h-10z M18 46h8v2h-8z M36 46h8v2h-8z M18 48h8v2h-8z M36 48h8v2h-8z M18 50h8v2h-8z M36 50h8v2h-8z M20 52h8v2h-8z M36 52h8v2h-8z M20 54h24v2h-24z M22 56h20v2h-20z M24 58h16v2h-16z M26 60h12v2h-12z"/>
+  <path fill="#FF8B00" d="M24 20h2v2h-2z M30 20h8v2h-8z M42 20h2v2h-2z M24 22h14v2h-14z M42 22h4v2h-4z M18 24h2v2h-2z M24 24h14v2h-14z M40 24h6v2h-6z M16 26h4v2h-4z M26 26h20v2h-20z"/>
+  <path fill="#FF2B00" d="M40 34h2v2h-2z M46 34h2v2h-2z M14 36h2v2h-2z M22 36h28v2h-28z M16 38h32v2h-32z M16 40h32v2h-32z M16 42h30v2h-30z"/>
+  <path fill="#FF6300" d="M16 28h6v2h-6z M24 28h20v2h-20z M18 30h24v2h-24z M18 32h24v2h-24z M48 32h2v2h-2z M20 34h20v2h-20z M48 34h2v2h-2z"/>
+  <path fill="#FFBC08" d="M32 12h2v2h-2z M30 14h6v2h-6z M30 16h8v2h-8z M24 18h2v2h-2z M32 18h6v2h-6z M42 18h2v2h-2z"/>
+  <path fill="#FFFA1A" d="M36 2h2v2h-2z M38 4h2v2h-2z M38 6h2v2h-2z"/>
+</svg>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Indicator Applet">
+  <path fill="#2BBEB0" d="M56 8h16v4h-16z M48 12h32v4h-32z M44 16h40v4h-40z M40 20h48v4h-48z M40 24h48v4h-48z M36 28h56v4h-56z M36 32h56v4h-56z M20 72h88v4h-88z M16 76h96v4h-96z M16 80h96v4h-96z M16 84h96v4h-96z M16 88h96v4h-96z M16 92h96v4h-96z M16 96h92v4h-92z M24 100h80v4h-80z"/>
+  <path fill="#2DA598" d="M36 36h56v4h-56z M36 40h56v4h-56z M40 44h48v4h-48z M40 48h48v4h-48z M44 52h40v4h-40z M48 56h32v4h-32z M60 60h8v4h-8z M108 96h4v4h-4z M20 100h4v4h-4z M104 100h4v4h-4z M24 104h80v4h-80z M28 108h72v4h-72z M36 112h56v4h-56z M48 116h32v4h-32z"/>
+</svg>

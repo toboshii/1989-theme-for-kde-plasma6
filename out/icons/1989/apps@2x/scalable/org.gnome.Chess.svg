@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Org Gnome Chess">
+  <path fill="#EBB01E" d="M32 36h4v4h-4z M32 40h4v4h-4z M40 44h8v4h-8z M80 44h8v4h-8z M40 48h4v4h-4z M84 48h4v4h-4z M32 52h12v4h-12z M84 52h8v4h-8z M32 56h12v4h-12z M84 56h8v4h-8z M36 60h8v4h-8z M84 60h4v4h-4z M36 64h8v4h-8z M84 64h4v4h-4z M40 68h8v4h-8z M80 68h8v4h-8z M40 72h12v4h-12z M72 72h12v4h-12z M44 76h40v4h-40z M48 80h32v4h-32z M60 84h8v4h-8z"/>
+  <path fill="#EDBD01" d="M60 4h4v4h-4z M56 8h12v4h-12z M36 12h4v4h-4z M56 12h16v4h-16z M88 12h4v4h-4z M32 16h12v4h-12z M52 16h20v4h-20z M80 16h12v4h-12z M36 20h56v4h-56z M36 24h56v4h-56z M36 28h56v4h-56z M36 32h56v4h-56z M36 36h56v4h-56z M36 40h56v4h-56z M48 84h12v4h-12z M68 84h12v4h-12z M48 88h28v4h-28z M52 92h24v4h-24z M60 96h8v4h-8z"/>
+  <path fill="#D0D1D3" d="M40 88h8v4h-8z M76 88h12v4h-12z M32 92h20v4h-20z M76 92h20v4h-20z M32 96h8v4h-8z M44 96h16v4h-16z M68 96h12v4h-12z M84 96h12v4h-12z M32 100h8v4h-8z M44 100h48v4h-48z M36 104h24v4h-24z M64 104h28v4h-28z M40 108h20v4h-20z M64 108h20v4h-20z M48 112h32v4h-32z M64 116h4v4h-4z"/>
+  <path fill="#E52434" d="M96 96h4v4h-4z M92 100h12v4h-12z M92 104h16v4h-16z M84 108h24v4h-24z M80 112h28v4h-28z M60 116h4v4h-4z M68 116h40v4h-40z M60 120h48v4h-48z"/>
+  <path fill="#F6C13D" d="M48 44h32v4h-32z M44 48h40v4h-40z M44 52h40v4h-40z M44 56h40v4h-40z M44 60h40v4h-40z M44 64h40v4h-40z M48 68h32v4h-32z M52 72h20v4h-20z"/>
+  <path fill="#F13E4C" d="M28 96h4v4h-4z M24 100h8v4h-8z M20 104h16v4h-16z M20 108h20v4h-20z M16 112h32v4h-32z M16 116h44v4h-44z M20 120h40v4h-40z"/>
+  <path fill="#343434" d="M40 96h4v4h-4z M80 96h4v4h-4z M40 100h4v4h-4z M60 104h4v4h-4z M60 108h4v4h-4z"/>
+  <path fill="#B8451B" d="M36 44h4v4h-4z M88 44h4v4h-4z M36 48h4v4h-4z M88 48h4v4h-4z"/>
+</svg>

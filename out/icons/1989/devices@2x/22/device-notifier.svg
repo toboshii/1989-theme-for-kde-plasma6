@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" shape-rendering="crispEdges" role="img" aria-label="Device Notifier">
+  <path fill="#6E6E6E" d="M24 2h4v2h-4z M24 4h4v2h-4z M24 6h4v2h-4z M24 8h4v2h-4z M40 8h2v2h-2z M24 10h4v2h-4z M40 10h2v2h-2z M24 12h6v2h-6z M36 12h6v2h-6z M24 14h4v2h-4z M30 14h2v2h-2z M38 14h4v2h-4z M24 16h2v2h-2z M30 16h2v2h-2z M38 16h4v2h-4z M38 18h4v2h-4z M2 22h2v2h-2z M40 22h2v2h-2z M2 24h2v2h-2z M40 24h2v2h-2z M2 26h2v2h-2z M40 26h2v2h-2z M2 28h2v2h-2z M8 28h4v2h-4z M40 28h2v2h-2z M2 30h2v2h-2z M40 30h2v2h-2z"/>
+  <path fill="#E1E3E6" d="M30 2h2v2h-2z M36 2h2v2h-2z M28 4h12v2h-12z M28 6h12v2h-12z M28 8h12v2h-12z M28 10h10v2h-10z M12 12h12v2h-12z M10 14h14v2h-14z M28 14h2v2h-2z M32 14h6v2h-6z M8 16h16v2h-16z M28 16h2v2h-2z M32 16h6v2h-6z M6 18h20v2h-20z M28 18h10v2h-10z M6 20h32v2h-32z M4 32h36v2h-36z"/>
+  <path fill="#333333" d="M40 2h2v2h-2z M40 4h2v2h-2z M40 6h2v2h-2z M38 10h2v2h-2z M30 12h6v2h-6z M26 16h2v2h-2z M26 18h2v2h-2z M4 20h2v2h-2z M38 20h2v2h-2z M4 22h36v2h-36z M4 24h36v2h-36z M4 26h6v2h-6z M12 26h28v2h-28z M4 28h4v2h-4z M12 28h28v2h-28z M4 30h36v2h-36z"/>
+  <path fill="#0069BC" d="M28 2h2v2h-2z M32 2h4v2h-4z M38 2h2v2h-2z"/>
+  <path fill="#00B300" d="M10 26h2v2h-2z"/>
+</svg>

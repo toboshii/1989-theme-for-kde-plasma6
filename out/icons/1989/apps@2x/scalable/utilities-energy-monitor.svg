@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Utilities Energy Monitor">
+  <path fill="#DCEDF6" d="M76 12h16v4h-16z M72 16h24v4h-24z M64 20h44v4h-44z M56 24h56v4h-56z M52 28h60v4h-60z M44 32h64v4h-64z M36 36h72v4h-72z M28 40h84v4h-84z M24 44h84v4h-84z M16 48h40v4h-40z M80 48h28v4h-28z M112 48h4v4h-4z M8 52h44v4h-44z M84 52h16v4h-16z M4 56h48v4h-48z M72 56h20v4h-20z M4 60h52v4h-52z M68 60h20v4h-20z M8 64h32v4h-32z M72 64h8v4h-8z M8 68h40v4h-40z M76 68h4v4h-4z M8 72h68v4h-68z M12 76h48v4h-48z M12 80h40v4h-40z M16 84h28v4h-28z M16 88h24v4h-24z M20 92h12v4h-12z M24 100h4v4h-4z"/>
+  <path fill="#9BB8C4" d="M112 28h4v4h-4z M108 32h12v4h-12z M108 44h4v4h-4z M108 48h4v4h-4z M56 52h12v4h-12z M100 52h16v4h-16z M60 56h8v4h-8z M92 56h24v4h-24z M88 60h32v4h-32z M80 64h32v4h-32z M116 64h4v4h-4z M80 68h24v4h-24z M76 72h24v4h-24z M60 76h32v4h-32z M52 80h32v4h-32z M44 84h36v4h-36z M40 88h32v4h-32z M32 92h32v4h-32z M24 96h32v4h-32z M28 100h24v4h-24z M28 104h16v4h-16z M32 108h4v4h-4z"/>
+  <path fill="#7792A3" d="M108 36h12v4h-12z M116 40h4v4h-4z M112 44h12v4h-12z M116 48h8v4h-8z M116 52h4v4h-4z M112 64h4v4h-4z M104 68h16v4h-16z M100 72h16v4h-16z M92 76h20v4h-20z M84 80h20v4h-20z M80 84h16v4h-16z M72 88h16v4h-16z M64 92h20v4h-20z M56 96h20v4h-20z M52 100h16v4h-16z M44 104h16v4h-16z M36 108h20v4h-20z M36 112h12v4h-12z"/>
+  <path fill="#4E7E69" d="M112 40h4v4h-4z M56 48h12v4h-12z M76 48h4v4h-4z M80 52h4v4h-4z M68 56h4v4h-4z"/>
+  <path fill="#85DB36" d="M56 60h8v4h-8z M40 64h32v4h-32z M48 68h28v4h-28z"/>
+  <path fill="#6DAD8A" d="M68 48h8v4h-8z M68 52h12v4h-12z"/>
+  <path fill="#ACFD71" d="M52 56h8v4h-8z M64 60h4v4h-4z"/>
+  <path fill="#ACF2CE" d="M52 52h4v4h-4z"/>
+</svg>

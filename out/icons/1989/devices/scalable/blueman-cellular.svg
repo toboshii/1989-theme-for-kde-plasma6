@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Blueman Cellular">
+  <path fill="#DEE3E5" d="M16 6h32v2h-32z M16 8h12v2h-12z M36 8h12v2h-12z M16 10h32v2h-32z M16 12h4v2h-4z M44 12h4v2h-4z M16 14h4v2h-4z M44 14h4v2h-4z M16 16h4v2h-4z M46 16h2v2h-2z M16 18h4v2h-4z M46 18h2v2h-2z M16 20h4v2h-4z M44 20h4v2h-4z M16 22h2v2h-2z M46 22h2v2h-2z M16 24h4v2h-4z M46 24h2v2h-2z M16 26h4v2h-4z M44 26h4v2h-4z M16 28h4v2h-4z M44 28h4v2h-4z M16 30h4v2h-4z M46 30h2v2h-2z M16 32h4v2h-4z M46 32h2v2h-2z M16 34h2v2h-2z M46 34h2v2h-2z M16 36h4v2h-4z M46 36h2v2h-2z M16 38h2v2h-2z M46 38h2v2h-2z M16 40h4v2h-4z M46 40h2v2h-2z M16 42h2v2h-2z M46 42h2v2h-2z M16 44h4v2h-4z M46 44h2v2h-2z M16 46h4v2h-4z M30 46h4v2h-4z M44 46h4v2h-4z M16 48h4v2h-4z M30 48h4v2h-4z M46 48h2v2h-2z M16 50h4v2h-4z M46 50h2v2h-2z M16 52h32v2h-32z M16 54h12v2h-12z M36 54h12v2h-12z M16 56h32v2h-32z"/>
+  <path fill="#3B3E41" d="M28 8h8v2h-8z M20 12h24v2h-24z M20 14h24v2h-24z M20 16h26v2h-26z M20 18h26v2h-26z M20 20h24v2h-24z M18 22h28v2h-28z M20 24h26v2h-26z M20 26h24v2h-24z M20 28h24v2h-24z M20 30h26v2h-26z M20 32h26v2h-26z M18 34h28v2h-28z M20 36h26v2h-26z M18 38h28v2h-28z M20 40h26v2h-26z M18 42h28v2h-28z M20 44h26v2h-26z M24 46h2v2h-2z M28 46h2v2h-2z M34 46h2v2h-2z M38 46h2v2h-2z M24 48h2v2h-2z M28 48h2v2h-2z M34 48h2v2h-2z M38 48h2v2h-2z M44 48h2v2h-2z M20 50h26v2h-26z M28 54h8v2h-8z"/>
+  <path fill="#2CC36B" d="M40 46h4v2h-4z M40 48h4v2h-4z"/>
+  <path fill="#3192D3" d="M20 46h4v2h-4z M20 48h4v2h-4z"/>
+  <path fill="#E14939" d="M36 46h2v2h-2z M36 48h2v2h-2z"/>
+  <path fill="#F9306B" d="M26 46h2v2h-2z M26 48h2v2h-2z"/>
+</svg>

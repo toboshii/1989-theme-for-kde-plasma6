@@ -1,0 +1,13 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "1989"
+            }
+        ],
+        "Id": "1989",
+        "License": "CC-BY-SA-4.0",
+        "Name": "1989"
+    }
+}

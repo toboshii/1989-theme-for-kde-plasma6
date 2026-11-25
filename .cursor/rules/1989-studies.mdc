@@ -1,0 +1,16 @@
+---
+description: Hard rule. Every 1989 surface matches the desktop study.
+alwaysApply: true
+---
+
+# 1989 bible
+
+`docs/1989-studies.canvas.tsx` is the picture. `docs/STYLE.md` is the written law. Read both before changing color, type, panel, frame, wallpaper, splash, greeter, or icons. If a result disagrees with the study, change the result.
+
+- Square hairline. Hack only. Field `#181821`. Flat color. Frosted field, no gloss.
+- Default accent is peach `#dd9d89`. The focused frame and the panel hairline use the accent. Buttons sit on the left: filled accent square, green hairline square, dim hairline square.
+- Sand and teal are poster, splash, and the Default Cachy mark. They are not text or focus colors.
+- Five variants only: Default, Mocha, Blue, Green, Red. A variant recolors the accent and the mark. Layout, field, and Hack stay. Catppuccin Mocha stays untouched.
+- A hand-drawn icon and a scalable app icon are a 64×64 canvas: `width="64"`, `height="64"`, `viewBox="0 0 64 64"`. A sized theme file uses that directory's canvas, and its `@2x` file uses twice that canvas.
+- Every icon we draw is a late-1980s Atari arcade mark: flat color, hard geometry, chunky silhouette, whole symbol in frame. Spotify, Google, the terminal, System Settings, the CachyOS logo, folders, and the notification area all follow this. The symbol stays the one people know, drawn as if it shipped on that console.
+- When recreating an app icon, take the symbol from the brand, then from its purpose, then from its name. Dolphin’s brand is the leaping dolphin, so that animal is the icon.

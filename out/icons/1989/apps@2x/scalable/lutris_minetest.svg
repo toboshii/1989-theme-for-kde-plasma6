@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Lutris Minetest">
+  <path fill="#59A849" d="M56 8h16v4h-16z M48 12h28v4h-28z M44 16h40v4h-40z M64 20h28v4h-28z M28 24h60v4h-60z M96 24h4v4h-4z M24 28h80v4h-80z M16 32h24v4h-24z M44 32h8v4h-8z M56 32h12v4h-12z M100 32h8v4h-8z M16 36h8v4h-8z M16 40h16v4h-16z M16 44h24v4h-24z M24 48h24v4h-24z M32 52h20v4h-20z M36 56h24v4h-24z M44 60h20v4h-20z M52 64h12v4h-12z M56 68h8v4h-8z"/>
+  <path fill="#573D2B" d="M104 48h8v4h-8z M96 52h16v4h-16z M92 56h20v4h-20z M84 60h28v4h-28z M76 64h36v4h-36z M72 68h40v4h-40z M64 72h48v4h-48z M64 76h48v4h-48z M64 80h48v4h-48z M64 84h48v4h-48z M64 88h40v4h-40z M64 92h36v4h-36z M64 96h28v4h-28z M64 100h20v4h-20z M64 104h16v4h-16z M64 108h8v4h-8z"/>
+  <path fill="#3E7231" d="M108 32h4v4h-4z M100 36h12v4h-12z M32 40h4v4h-4z M44 40h36v4h-36z M96 40h16v4h-16z M40 44h28v4h-28z M88 44h24v4h-24z M48 48h56v4h-56z M72 52h24v4h-24z M60 56h32v4h-32z M64 60h20v4h-20z M64 64h12v4h-12z M64 68h8v4h-8z"/>
+  <path fill="#AD7C59" d="M16 48h8v4h-8z M16 52h16v4h-16z M16 56h20v4h-20z M16 60h28v4h-28z M16 64h36v4h-36z M16 68h36v4h-36z M16 72h32v4h-32z M16 76h28v4h-28z M16 80h24v4h-24z M16 84h24v4h-24z M20 88h16v4h-16z M28 92h4v4h-4z"/>
+  <path fill="#835B41" d="M52 68h4v4h-4z M48 72h16v4h-16z M44 76h20v4h-20z M40 80h24v4h-24z M40 84h24v4h-24z M36 88h28v4h-28z M32 92h32v4h-32z M36 96h28v4h-28z M44 100h20v4h-20z M48 104h16v4h-16z M56 108h8v4h-8z"/>
+  <path fill="#4C8D3C" d="M36 20h28v4h-28z M88 24h8v4h-8z M40 32h4v4h-4z M52 32h4v4h-4z M68 32h32v4h-32z M24 36h76v4h-76z M36 40h8v4h-8z M80 40h16v4h-16z M68 44h20v4h-20z M52 52h20v4h-20z"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Imap">
+  <path fill="#22A8EA" d="M16 34h2v2h-2z M20 36h4v2h-4z M14 38h2v2h-2z M18 38h10v2h-10z M18 40h12v2h-12z M12 42h2v2h-2z M16 42h14v2h-14z M32 42h4v2h-4z M38 42h16v2h-16z M16 44h14v2h-14z M32 44h6v2h-6z M40 44h22v2h-22z M10 46h2v2h-2z M14 46h14v2h-14z M30 46h8v2h-8z M44 46h18v2h-18z M14 48h14v2h-14z M30 48h6v2h-6z M48 48h14v2h-14z M8 50h2v2h-2z M12 50h14v2h-14z M28 50h8v2h-8z M50 50h12v2h-12z M12 52h14v2h-14z M28 52h6v2h-6z M54 52h8v2h-8z M6 54h2v2h-2z M10 54h14v2h-14z M26 54h8v2h-8z M58 54h2v2h-2z M10 56h14v2h-14z M26 56h6v2h-6z M6 58h16v2h-16z M24 58h8v2h-8z"/>
+  <path fill="#30C8F1" d="M60 24h2v2h-2z M2 26h6v2h-6z M56 26h6v2h-6z M2 28h8v2h-8z M54 28h8v2h-8z M2 30h12v2h-12z M50 30h12v2h-12z M2 32h16v2h-16z M46 32h16v2h-16z M2 34h14v2h-14z M18 34h2v2h-2z M44 34h18v2h-18z M2 36h18v2h-18z M40 36h22v2h-22z M2 38h12v2h-12z M16 38h2v2h-2z M36 38h26v2h-26z M2 40h16v2h-16z M34 40h28v2h-28z M2 42h10v2h-10z M14 42h2v2h-2z M54 42h8v2h-8z M2 44h14v2h-14z M2 46h8v2h-8z M12 46h2v2h-2z M2 48h12v2h-12z M2 50h6v2h-6z M10 50h2v2h-2z M2 52h10v2h-10z M4 54h2v2h-2z M8 54h2v2h-2z M4 56h6v2h-6z"/>
+  <path fill="#1283E2" d="M30 42h2v2h-2z M30 44h2v2h-2z M28 46h2v2h-2z M38 46h4v2h-4z M28 48h2v2h-2z M36 48h10v2h-10z M26 50h2v2h-2z M36 50h14v2h-14z M26 52h2v2h-2z M34 52h18v2h-18z M24 54h2v2h-2z M34 54h22v2h-22z M24 56h2v2h-2z M32 56h28v2h-28z M22 58h2v2h-2z M32 58h26v2h-26z"/>
+  <path fill="#F0F0F0" d="M6 10h52v2h-52z M6 12h52v2h-52z M6 14h52v2h-52z M6 16h52v2h-52z M6 18h52v2h-52z M6 20h52v2h-52z M6 22h52v2h-52z M6 24h52v2h-52z M8 26h48v2h-48z M10 28h44v2h-44z M14 30h36v2h-36z M18 32h28v2h-28z M20 34h24v2h-24z M24 36h16v2h-16z M28 38h8v2h-8z M30 40h4v2h-4z"/>
+  <path fill="#269CCB" d="M36 42h2v2h-2z M42 46h2v2h-2z M46 48h2v2h-2z M56 54h2v2h-2z"/>
+  <path fill="#0548A2" d="M58 22h2v2h-2z M58 24h2v2h-2z"/>
+  <path fill="#0562CA" d="M4 22h2v2h-2z M2 24h4v2h-4z"/>
+  <path fill="#1E7CA3" d="M38 44h2v2h-2z M52 52h2v2h-2z"/>
+</svg>

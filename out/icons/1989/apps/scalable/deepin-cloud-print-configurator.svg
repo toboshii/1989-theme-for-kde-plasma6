@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Deepin Cloud Print Configurator">
+  <path fill="#2E3133" d="M4 20h2v2h-2z M50 20h10v2h-10z M4 22h2v2h-2z M46 22h14v2h-14z M16 30h32v2h-32z M16 32h32v2h-32z M16 34h32v2h-32z M16 36h32v2h-32z M16 38h32v2h-32z M16 40h12v2h-12z M30 40h8v2h-8z M40 40h2v2h-2z M44 40h4v2h-4z M4 42h4v2h-4z M10 42h4v2h-4z M50 42h10v2h-10z M4 44h10v2h-10z M52 44h8v2h-8z M10 46h44v2h-44z M10 48h44v2h-44z M12 50h40v2h-40z"/>
+  <path fill="#E6E6E6" d="M4 24h56v2h-56z M4 26h56v2h-56z M4 28h56v2h-56z M4 30h12v2h-12z M48 30h12v2h-12z M4 32h12v2h-12z M48 32h12v2h-12z M4 34h12v2h-12z M48 34h12v2h-12z M4 36h12v2h-12z M48 36h12v2h-12z M4 38h12v2h-12z M48 38h12v2h-12z M4 40h12v2h-12z M28 40h2v2h-2z M38 40h2v2h-2z M42 40h2v2h-2z M48 40h12v2h-12z M18 42h28v2h-28z M16 44h32v2h-32z"/>
+  <path fill="#737A80" d="M10 14h44v2h-44z M8 16h12v2h-12z M42 16h14v2h-14z M6 18h52v2h-52z M6 20h44v2h-44z M6 22h40v2h-40z M8 42h2v2h-2z M14 42h4v2h-4z M46 42h4v2h-4z M14 44h2v2h-2z M48 44h4v2h-4z"/>
+  <path fill="#52E6EC" d="M20 16h6v2h-6z"/>
+  <path fill="#58E8CA" d="M26 16h8v2h-8z"/>
+  <path fill="#5DE9A3" d="M34 16h6v2h-6z"/>
+  <path fill="#62EA82" d="M40 16h2v2h-2z"/>
+</svg>

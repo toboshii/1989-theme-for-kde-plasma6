@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" shape-rendering="crispEdges" role="img" aria-label="Network Server">
+  <path fill="#343434" d="M12 20h4v4h-4z M80 20h4v4h-4z M12 24h72v4h-72z M12 28h72v4h-72z M12 32h72v4h-72z M12 36h32v4h-32z M52 36h32v4h-32z M12 40h72v4h-72z M12 44h72v4h-72z M12 48h72v4h-72z M12 52h72v4h-72z M12 56h72v4h-72z M16 60h64v4h-64z M12 64h72v4h-72z M12 68h72v4h-72z M12 72h72v4h-72z M12 76h72v4h-72z M16 80h64v4h-64z M12 84h72v4h-72z"/>
+  <path fill="#E2E3E7" d="M20 8h56v4h-56z M20 12h56v4h-56z M16 16h64v4h-64z M16 20h64v4h-64z M12 60h4v4h-4z M80 60h4v4h-4z"/>
+  <path fill="#737373" d="M12 80h4v4h-4z M80 80h4v4h-4z"/>
+  <path fill="#71D306" d="M44 36h8v4h-8z"/>
+</svg>

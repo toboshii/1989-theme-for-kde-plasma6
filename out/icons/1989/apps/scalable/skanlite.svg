@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Skanlite">
+  <path fill="#50E6FF" d="M12 6h26v2h-26z M12 8h26v2h-26z M12 10h26v2h-26z M12 12h26v2h-26z M12 14h26v2h-26z M12 16h26v2h-26z M12 18h26v2h-26z M12 20h40v2h-40z M12 22h40v2h-40z M12 24h6v2h-6z M46 24h6v2h-6z M12 26h40v2h-40z M12 28h6v2h-6z M46 28h6v2h-6z M12 30h40v2h-40z M12 32h6v2h-6z M46 32h6v2h-6z M12 34h40v2h-40z"/>
+  <path fill="#FF9CBE" d="M12 38h40v2h-40z M12 40h6v2h-6z M46 40h6v2h-6z M12 42h40v2h-40z M12 44h6v2h-6z M46 44h6v2h-6z M12 46h40v2h-40z M12 48h40v2h-40z M12 50h40v2h-40z M12 52h40v2h-40z M12 54h40v2h-40z M12 56h40v2h-40z"/>
+  <path fill="#297CD2" d="M38 6h2v2h-2z M38 8h4v2h-4z M38 10h6v2h-6z M38 12h8v2h-8z M38 14h10v2h-10z M38 16h12v2h-12z M38 18h14v2h-14z"/>
+  <path fill="#057093" d="M18 24h28v2h-28z M18 28h28v2h-28z M18 32h28v2h-28z"/>
+  <path fill="#AD1F4E" d="M18 40h28v2h-28z M18 44h28v2h-28z"/>
+  <path fill="#CF1928" d="M4 36h56v2h-56z"/>
+</svg>

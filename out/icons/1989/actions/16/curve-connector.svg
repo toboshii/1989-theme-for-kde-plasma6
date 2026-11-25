@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges" role="img" aria-label="Curve Connector">
+  <path fill="#BDC5E3" d="M3 4h8v1h-8z M2 5h2v1h-2z M2 6h1v1h-1z M2 7h2v1h-2z M3 8h10v1h-10z M12 9h2v1h-2z M13 10h1v1h-1z M12 11h2v1h-2z M5 12h8v1h-8z"/>
+  <path fill="#3DAEE9" d="M11 3h3v1h-3z M11 4h1v1h-1z M13 4h1v1h-1z M11 5h3v1h-3z M2 11h3v1h-3z M2 12h1v1h-1z M4 12h1v1h-1z M2 13h3v1h-3z"/>
+</svg>

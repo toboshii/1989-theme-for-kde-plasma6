@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Online Account">
+  <path fill="#40B4E9" d="M8 4h12v4h-12z M52 4h4v4h-4z M4 8h56v4h-56z M4 12h56v4h-56z M4 16h56v4h-56z M4 20h24v4h-24z M40 20h20v4h-20z M4 24h16v4h-16z M44 24h16v4h-16z M4 28h12v4h-12z M44 28h16v4h-16z"/>
+  <path fill="#3483DB" d="M4 32h12v4h-12z M48 32h12v4h-12z M4 36h12v4h-12z M48 36h12v4h-12z M4 40h12v4h-12z M48 40h12v4h-12z M4 44h16v4h-16z M44 44h16v4h-16z M4 48h56v4h-56z"/>
+  <path fill="#FFFFFF" d="M28 20h12v4h-12z M20 24h24v4h-24z M16 28h28v4h-28z M16 32h32v4h-32z M16 36h32v4h-32z M16 40h32v4h-32z M20 44h24v4h-24z"/>
+  <path fill="#2E6DB3" d="M4 52h56v4h-56z M8 56h48v4h-48z"/>
+  <path fill="#6BCBEB" d="M20 4h32v4h-32z"/>
+</svg>

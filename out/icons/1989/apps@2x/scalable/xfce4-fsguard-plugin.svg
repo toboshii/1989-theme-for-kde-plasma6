@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Xfce4 Fsguard Plugin">
+  <path fill="#ABBEC1" d="M64 4h16v4h-16z M88 4h36v4h-36z M64 8h24v4h-24z M100 8h24v4h-24z M64 12h24v4h-24z M100 12h24v4h-24z M64 16h28v4h-28z M100 16h24v4h-24z M64 20h28v4h-28z M100 20h24v4h-24z M64 24h24v4h-24z M100 24h24v4h-24z M64 28h24v4h-24z M100 28h24v4h-24z M64 32h60v4h-60z M36 36h56v4h-56z M96 36h28v4h-28z M32 40h92v4h-92z M24 44h76v4h-76z M104 44h16v4h-16z M20 48h76v4h-76z M16 52h60v4h-60z M84 52h12v4h-12z M12 56h64v4h-64z M64 60h12v4h-12z M64 64h16v4h-16z M8 76h4v4h-4z M116 76h4v4h-4z M8 80h4v4h-4z M116 80h4v4h-4z M8 84h4v4h-4z M116 84h4v4h-4z M8 88h4v4h-4z M116 88h4v4h-4z M8 92h112v4h-112z"/>
+  <path fill="#595959" d="M80 4h8v4h-8z M80 52h4v4h-4z M100 52h8v4h-8z M76 56h8v4h-8z M88 56h24v4h-24z M8 60h56v4h-56z M76 60h4v4h-4z M84 60h28v4h-28z M8 64h56v4h-56z M84 64h24v4h-24z M8 68h112v4h-112z M8 72h20v4h-20z M32 72h88v4h-88z M12 76h12v4h-12z M36 76h80v4h-80z M12 80h104v4h-104z M12 84h104v4h-104z M12 88h104v4h-104z"/>
+  <path fill="#7585A7" d="M88 8h12v4h-12z M100 44h4v4h-4z M120 44h4v4h-4z M96 48h28v4h-28z M76 52h4v4h-4z M96 52h4v4h-4z M108 52h16v4h-16z M84 56h4v4h-4z M112 56h12v4h-12z M80 60h4v4h-4z M112 60h12v4h-12z M80 64h4v4h-4z M108 64h16v4h-16z"/>
+  <path fill="#FFFFFF" d="M88 12h12v4h-12z M92 16h8v4h-8z M92 20h8v4h-8z M88 24h12v4h-12z M88 28h12v4h-12z M32 36h4v4h-4z M92 36h4v4h-4z M28 40h4v4h-4z"/>
+  <path fill="#00B300" d="M32 76h4v4h-4z"/>
+  <path fill="#01FD01" d="M28 72h4v4h-4z"/>
+  <path fill="#3C623C" d="M24 76h4v4h-4z"/>
+  <path fill="#81FF81" d="M28 76h4v4h-4z"/>
+</svg>

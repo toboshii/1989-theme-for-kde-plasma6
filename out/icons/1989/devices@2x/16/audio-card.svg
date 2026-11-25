@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Audio Card">
+  <path fill="#AFC0C6" d="M2 6h4v2h-4z M2 8h4v2h-4z M2 10h4v2h-4z M2 12h4v2h-4z M2 14h4v2h-4z M2 16h4v2h-4z M16 16h6v2h-6z M2 18h4v2h-4z M16 18h6v2h-6z M2 20h4v2h-4z M2 22h4v2h-4z M2 24h4v2h-4z"/>
+  <path fill="#3D4144" d="M14 14h10v2h-10z M14 16h2v2h-2z M22 16h2v2h-2z M14 18h2v2h-2z M22 18h2v2h-2z M14 20h10v2h-10z M16 22h6v2h-6z"/>
+  <path fill="#699E51" d="M6 18h8v2h-8z M24 18h6v2h-6z M8 20h6v2h-6z M24 20h6v2h-6z M6 22h10v2h-10z M22 22h8v2h-8z M10 24h16v2h-16z"/>
+  <path fill="#82B66B" d="M8 10h22v2h-22z M6 12h24v2h-24z M8 14h6v2h-6z M24 14h6v2h-6z M8 16h6v2h-6z M24 16h6v2h-6z"/>
+  <path fill="#22A7F0" d="M6 16h2v2h-2z"/>
+  <path fill="#26C281" d="M6 20h2v2h-2z"/>
+  <path fill="#E00A5E" d="M6 10h2v2h-2z"/>
+  <path fill="#F9B425" d="M6 14h2v2h-2z"/>
+</svg>

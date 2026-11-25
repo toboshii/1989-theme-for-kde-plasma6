@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Blueman Cellular">
+  <path fill="#DEE3E5" d="M32 12h64v4h-64z M32 16h24v4h-24z M72 16h24v4h-24z M32 20h64v4h-64z M32 24h8v4h-8z M88 24h8v4h-8z M32 28h8v4h-8z M88 28h8v4h-8z M32 32h8v4h-8z M92 32h4v4h-4z M32 36h8v4h-8z M92 36h4v4h-4z M32 40h8v4h-8z M88 40h8v4h-8z M32 44h4v4h-4z M92 44h4v4h-4z M32 48h8v4h-8z M92 48h4v4h-4z M32 52h8v4h-8z M88 52h8v4h-8z M32 56h8v4h-8z M88 56h8v4h-8z M32 60h8v4h-8z M92 60h4v4h-4z M32 64h8v4h-8z M92 64h4v4h-4z M32 68h4v4h-4z M92 68h4v4h-4z M32 72h8v4h-8z M92 72h4v4h-4z M32 76h4v4h-4z M92 76h4v4h-4z M32 80h8v4h-8z M92 80h4v4h-4z M32 84h4v4h-4z M92 84h4v4h-4z M32 88h8v4h-8z M92 88h4v4h-4z M32 92h8v4h-8z M60 92h8v4h-8z M88 92h8v4h-8z M32 96h8v4h-8z M60 96h8v4h-8z M92 96h4v4h-4z M32 100h8v4h-8z M92 100h4v4h-4z M32 104h64v4h-64z M32 108h24v4h-24z M72 108h24v4h-24z M32 112h64v4h-64z"/>
+  <path fill="#3B3E41" d="M56 16h16v4h-16z M40 24h48v4h-48z M40 28h48v4h-48z M40 32h52v4h-52z M40 36h52v4h-52z M40 40h48v4h-48z M36 44h56v4h-56z M40 48h52v4h-52z M40 52h48v4h-48z M40 56h48v4h-48z M40 60h52v4h-52z M40 64h52v4h-52z M36 68h56v4h-56z M40 72h52v4h-52z M36 76h56v4h-56z M40 80h52v4h-52z M36 84h56v4h-56z M40 88h52v4h-52z M48 92h4v4h-4z M56 92h4v4h-4z M68 92h4v4h-4z M76 92h4v4h-4z M48 96h4v4h-4z M56 96h4v4h-4z M68 96h4v4h-4z M76 96h4v4h-4z M88 96h4v4h-4z M40 100h52v4h-52z M56 108h16v4h-16z"/>
+  <path fill="#2CC36B" d="M80 92h8v4h-8z M80 96h8v4h-8z"/>
+  <path fill="#3192D3" d="M40 92h8v4h-8z M40 96h8v4h-8z"/>
+  <path fill="#E14939" d="M72 92h4v4h-4z M72 96h4v4h-4z"/>
+  <path fill="#F9306B" d="M52 92h4v4h-4z M52 96h4v4h-4z"/>
+</svg>

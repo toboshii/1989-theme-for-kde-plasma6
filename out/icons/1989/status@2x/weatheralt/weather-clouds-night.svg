@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Weather Clouds Night">
+  <path fill="#A9D4FE" d="M22 6h2v2h-2z M22 8h4v2h-4z M22 10h6v2h-6z M22 12h6v2h-6z M20 14h8v2h-8z M24 16h4v2h-4z M26 18h2v2h-2z M6 22h2v2h-2z"/>
+  <path fill="#E6F4FF" d="M18 14h2v2h-2z M14 16h10v2h-10z M12 18h14v2h-14z M10 20h20v2h-20z M8 22h22v2h-22z M8 24h20v2h-20z M8 26h16v2h-16z M12 28h12v2h-12z"/>
+  <path fill="#C8DEF0" d="M28 24h2v2h-2z M24 26h6v2h-6z M24 28h2v2h-2z"/>
+</svg>

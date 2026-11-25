@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Laptop">
+  <path fill="#43474B" d="M4 4h2v2h-2z M12 4h2v2h-2z M22 4h2v2h-2z M26 4h2v2h-2z M2 14h2v2h-2z M2 20h2v2h-2z M28 20h2v2h-2z M2 22h28v2h-28z M2 26h28v2h-28z"/>
+  <path fill="#168DC8" d="M20 6h10v2h-10z M20 8h10v2h-10z M20 10h10v2h-10z M16 12h14v2h-14z M18 14h12v2h-12z M14 16h16v2h-16z M14 18h16v2h-16z M14 20h14v2h-14z"/>
+  <path fill="#28B4D6" d="M12 6h8v2h-8z M12 8h8v2h-8z M10 10h10v2h-10z M8 12h8v2h-8z M8 14h10v2h-10z M6 16h8v2h-8z M4 18h10v2h-10z M4 20h10v2h-10z"/>
+  <path fill="#38D5E2" d="M2 6h10v2h-10z M2 8h10v2h-10z M2 10h8v2h-8z M2 12h6v2h-6z M4 14h4v2h-4z M2 16h4v2h-4z M2 18h2v2h-2z"/>
+  <path fill="#828990" d="M6 4h6v2h-6z M14 4h4v2h-4z M20 4h2v2h-2z M24 4h2v2h-2z"/>
+  <path fill="#39839A" d="M18 4h2v2h-2z"/>
+  <path fill="#BCC5CF" d="M2 24h28v2h-28z"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Music Player">
+  <path fill="#BDC5E3" d="M16 6h32v2h-32z M16 8h32v2h-32z M16 10h32v2h-32z M16 12h4v2h-4z M46 12h2v2h-2z M16 14h4v2h-4z M46 14h2v2h-2z M16 16h4v2h-4z M46 16h2v2h-2z M16 18h4v2h-4z M46 18h2v2h-2z M16 20h4v2h-4z M46 20h2v2h-2z M16 22h4v2h-4z M46 22h2v2h-2z M16 24h2v2h-2z M46 24h2v2h-2z M16 26h4v2h-4z M46 26h2v2h-2z M16 28h2v2h-2z M46 28h2v2h-2z M16 30h4v2h-4z M46 30h2v2h-2z M16 32h4v2h-4z M46 32h2v2h-2z M16 34h4v2h-4z M46 34h2v2h-2z M16 36h4v2h-4z M46 36h2v2h-2z M16 38h4v2h-4z M46 38h2v2h-2z M16 40h2v2h-2z M46 40h2v2h-2z M16 42h4v2h-4z M46 42h2v2h-2z M16 44h4v2h-4z M46 44h2v2h-2z M16 46h4v2h-4z M46 46h2v2h-2z M16 48h4v2h-4z M46 48h2v2h-2z M16 50h2v2h-2z M46 50h2v2h-2z M16 52h4v2h-4z M46 52h2v2h-2z M16 54h32v2h-32z M16 56h32v2h-32z"/>
+  <path fill="#188BCA" d="M26 22h4v2h-4z M34 22h4v2h-4z M22 24h4v2h-4z M30 24h6v2h-6z M38 24h4v2h-4z M20 26h4v2h-4z M26 26h12v2h-12z M40 26h6v2h-6z M18 28h28v2h-28z M20 30h8v2h-8z M36 30h10v2h-10z M20 32h10v2h-10z M34 32h12v2h-12z M20 34h26v2h-26z M20 36h4v2h-4z M26 36h12v2h-12z M40 36h6v2h-6z M20 38h6v2h-6z M28 38h8v2h-8z M38 38h8v2h-8z M18 40h28v2h-28z M20 42h24v2h-24z M26 44h2v2h-2z M36 44h2v2h-2z"/>
+  <path fill="#458CDE" d="M20 12h26v2h-26z M20 14h26v2h-26z M20 16h26v2h-26z M20 18h4v2h-4z M26 18h12v2h-12z M40 18h6v2h-6z M28 30h2v2h-2z M32 30h4v2h-4z M32 32h2v2h-2z M22 44h4v2h-4z M28 44h8v2h-8z M38 44h4v2h-4z M44 44h2v2h-2z M20 46h12v2h-12z M34 46h4v2h-4z M42 46h4v2h-4z M20 48h26v2h-26z"/>
+  <path fill="#136FA4" d="M24 18h2v2h-2z M38 18h2v2h-2z M20 20h26v2h-26z M20 22h6v2h-6z M30 22h4v2h-4z M38 22h8v2h-8z M18 24h4v2h-4z M42 24h4v2h-4z M44 42h2v2h-2z M20 44h2v2h-2z M42 44h2v2h-2z M18 50h28v2h-28z M20 52h26v2h-26z"/>
+  <path fill="#71BDE1" d="M26 24h4v2h-4z M24 26h2v2h-2z M24 36h2v2h-2z M38 36h2v2h-2z M26 38h2v2h-2z M36 38h2v2h-2z"/>
+  <path fill="#FFFFFF" d="M30 30h2v2h-2z M30 32h2v2h-2z M38 46h4v2h-4z"/>
+  <path fill="#E3A32A" d="M36 24h2v2h-2z M38 26h2v2h-2z"/>
+  <path fill="#F69509" d="M32 46h2v2h-2z"/>
+</svg>

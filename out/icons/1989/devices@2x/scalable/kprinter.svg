@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Kprinter">
+  <path fill="#2E3133" d="M8 40h4v4h-4z M100 40h20v4h-20z M8 44h4v4h-4z M92 44h28v4h-28z M32 60h64v4h-64z M32 64h64v4h-64z M32 68h64v4h-64z M32 72h64v4h-64z M32 76h64v4h-64z M32 80h24v4h-24z M60 80h16v4h-16z M80 80h4v4h-4z M88 80h8v4h-8z M8 84h8v4h-8z M20 84h8v4h-8z M100 84h20v4h-20z M8 88h20v4h-20z M104 88h16v4h-16z M20 92h88v4h-88z M20 96h88v4h-88z M24 100h80v4h-80z"/>
+  <path fill="#E6E6E6" d="M8 48h112v4h-112z M8 52h112v4h-112z M8 56h112v4h-112z M8 60h24v4h-24z M96 60h24v4h-24z M8 64h24v4h-24z M96 64h24v4h-24z M8 68h24v4h-24z M96 68h24v4h-24z M8 72h24v4h-24z M96 72h24v4h-24z M8 76h24v4h-24z M96 76h24v4h-24z M8 80h24v4h-24z M56 80h4v4h-4z M76 80h4v4h-4z M84 80h4v4h-4z M96 80h24v4h-24z M36 84h56v4h-56z M32 88h64v4h-64z"/>
+  <path fill="#737A80" d="M20 28h88v4h-88z M16 32h24v4h-24z M84 32h28v4h-28z M12 36h104v4h-104z M12 40h88v4h-88z M12 44h80v4h-80z M16 84h4v4h-4z M28 84h8v4h-8z M92 84h8v4h-8z M28 88h4v4h-4z M96 88h8v4h-8z"/>
+  <path fill="#52E6EC" d="M40 32h12v4h-12z"/>
+  <path fill="#58E8CA" d="M52 32h16v4h-16z"/>
+  <path fill="#5DE9A3" d="M68 32h12v4h-12z"/>
+  <path fill="#62EA82" d="M80 32h4v4h-4z"/>
+</svg>

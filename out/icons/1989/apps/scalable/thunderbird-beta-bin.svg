@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Thunderbird Beta Bin">
+  <path fill="#ED3F59" d="M32 18h12v2h-12z M28 20h20v2h-20z M36 22h14v2h-14z M14 24h6v2h-6z M38 24h20v2h-20z M12 26h6v2h-6z M40 26h20v2h-20z M14 28h2v2h-2z M42 28h18v2h-18z M44 30h16v2h-16z M44 32h16v2h-16z M44 34h16v2h-16z M46 36h14v2h-14z M46 38h14v2h-14z M46 40h12v2h-12z M6 42h8v2h-8z M30 42h28v2h-28z M6 44h12v2h-12z M26 44h32v2h-32z M8 46h34v2h-34z M44 46h12v2h-12z M8 48h46v2h-46z M10 50h44v2h-44z M12 52h40v2h-40z M14 54h36v2h-36z M16 56h30v2h-30z M20 58h24v2h-24z M28 60h8v2h-8z"/>
+  <path fill="#E37385" d="M26 10h20v2h-20z M24 12h28v2h-28z M20 14h2v2h-2z M24 14h30v2h-30z M18 16h38v2h-38z M16 18h16v2h-16z M44 18h12v2h-12z M16 20h12v2h-12z M48 20h10v2h-10z M14 22h10v2h-10z M50 22h8v2h-8z"/>
+  <path fill="#A93159" d="M24 22h12v2h-12z M20 24h18v2h-18z M18 26h4v2h-4z M24 26h16v2h-16z M30 28h12v2h-12z M32 30h12v2h-12z M32 32h10v2h-10z M32 36h14v2h-14z M32 38h14v2h-14z"/>
+  <path fill="#CA3859" d="M42 32h2v2h-2z M32 34h12v2h-12z M8 40h4v2h-4z M30 40h16v2h-16z M6 46h2v2h-2z M42 46h2v2h-2z"/>
+  <path fill="#E8BCC4" d="M24 6h10v2h-10z M22 8h6v2h-6z M20 10h4v2h-4z M18 12h4v2h-4z M18 14h2v2h-2z M16 16h2v2h-2z"/>
+  <path fill="#DD919E" d="M34 6h8v2h-8z M28 8h16v2h-16z M24 10h2v2h-2z M46 10h4v2h-4z"/>
+  <path fill="#C9FFFC" d="M22 12h2v2h-2z M22 14h2v2h-2z"/>
+</svg>

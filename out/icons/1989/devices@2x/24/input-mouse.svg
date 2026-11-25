@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" shape-rendering="crispEdges" role="img" aria-label="Input Mouse">
+  <path fill="#8798AA" d="M16 14h8v2h-8z M28 14h12v2h-12z M12 16h8v2h-8z M26 16h16v2h-16z M8 18h8v2h-8z M22 18h18v2h-18z M6 20h8v2h-8z M18 20h20v2h-20z M4 22h6v2h-6z M14 22h20v2h-20z M4 24h28v2h-28z M6 26h22v2h-22z M12 28h14v2h-14z M12 30h10v2h-10z"/>
+  <path fill="#3E4548" d="M24 14h2v2h-2z M40 18h4v2h-4z M14 20h2v2h-2z M38 20h6v2h-6z M10 22h4v2h-4z M34 22h12v2h-12z M32 24h12v2h-12z M28 26h16v2h-16z M26 28h14v2h-14z M6 30h4v2h-4z M22 30h12v2h-12z M8 32h20v2h-20z"/>
+  <path fill="#000000" d="M26 14h2v2h-2z M20 16h6v2h-6z M16 18h6v2h-6z M16 20h2v2h-2z"/>
+  <path fill="#DEE3E8" d="M2 24h2v2h-2z M2 26h4v2h-4z M4 28h8v2h-8z M10 30h2v2h-2z"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Gnome Fs Directory">
+  <path fill="#FFD971" d="M28 16h8v2h-8z M38 16h22v2h-22z M26 18h34v2h-34z M22 20h2v2h-2z M26 20h34v2h-34z M20 22h8v2h-8z M30 22h30v2h-30z M16 24h44v2h-44z M12 26h48v2h-48z M10 28h46v2h-46z M6 30h48v2h-48z M4 32h6v2h-6z M12 32h38v2h-38z M4 34h4v2h-4z M10 34h36v2h-36z M4 36h40v2h-40z M4 38h36v2h-36z M4 40h32v2h-32z M4 42h28v2h-28z M4 44h26v2h-26z M4 46h22v2h-22z M4 48h20v2h-20z M4 50h16v2h-16z"/>
+  <path fill="#FFE291" d="M26 16h2v2h-2z M36 16h2v2h-2z M24 18h2v2h-2z M4 20h18v2h-18z M24 20h2v2h-2z M4 22h16v2h-16z M28 22h2v2h-2z M4 24h12v2h-12z M4 26h8v2h-8z M4 28h6v2h-6z M4 30h2v2h-2z M10 32h2v2h-2z M8 34h2v2h-2z"/>
+  <path fill="#FFD04E" d="M56 28h4v2h-4z M54 30h6v2h-6z M50 32h10v2h-10z M46 34h14v2h-14z M44 36h16v2h-16z M40 38h20v2h-20z M36 40h24v2h-24z M32 42h28v2h-28z M30 44h30v2h-30z M26 46h34v2h-34z M24 48h36v2h-36z M20 50h38v2h-38z"/>
+  <path fill="#F9BA1A" d="M6 8h18v2h-18z M4 10h22v2h-22z M4 12h24v2h-24z M4 14h54v2h-54z M4 16h22v2h-22z M4 18h2v2h-2z"/>
+  <path fill="#DFA22C" d="M58 50h2v2h-2z"/>
+  <path fill="#FFEDB9" d="M6 18h18v2h-18z"/>
+</svg>

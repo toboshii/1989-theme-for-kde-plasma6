@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>1989 desktop study</title>
+  <style>
+    :root {
+      --field: #181821;
+      --surface: rgba(24, 24, 33, 0.82);
+      --title: #cdd6f4;
+      --text: #bdc5e3;
+      --dim: #8d939f;
+      --mauve: #d1b7f1;
+      --peach: #dd9d89;
+      --green: #a6e3a1;
+      --sand: #f9e2af;
+      --teal: #94e2d5;
+      --blue: #89b4fa;
+      --pink: #be86c6;
+      --disc: #222233;
+      --idle: rgba(189, 197, 227, 0.18);
+      --font: Hack, ui-monospace, monospace;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 8px;
+      background: #101018;
+      color: var(--text);
+      font-family: var(--font);
+    }
+
+    h1, h2, p { margin: 0; }
+
+    h1 {
+      color: var(--title);
+      font-size: 24px;
+      font-weight: 600;
+      letter-spacing: 0;
+    }
+
+    h2 {
+      color: var(--title);
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    h3 {
+      color: var(--title);
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    .sheet { display: flex; flex-direction: column; gap: 28px; }
+    .intro { display: flex; flex-direction: column; gap: 6px; }
+    .lede { color: var(--dim); font-size: 14px; line-height: 1.45; max-width: 72em; }
+    .note { color: var(--dim); font-size: 12px; line-height: 1.45; }
+    .col { display: flex; flex-direction: column; gap: 8px; }
+
+    .stage {
+      position: relative;
+      height: 560px;
+      background: var(--field);
+      overflow: hidden;
+      font-family: var(--font);
+    }
+
+    .disc {
+      position: absolute;
+      left: -80px;
+      top: 48px;
+      width: 460px;
+      height: 460px;
+      border-radius: 50%;
+      background: var(--disc);
+      border: 1px solid var(--mauve);
+    }
+
+    .stripe {
+      position: absolute;
+      right: -40px;
+      top: -20px;
+      width: 150px;
+      height: 640px;
+      transform: rotate(16deg);
+    }
+
+    .stripe i,
+    .splash-stripe i { display: block; height: 33.33%; }
+    .splash-stripe i:last-child { height: 34%; }
+    .band-peach { background: var(--peach); }
+    .band-sand { background: var(--sand); }
+    .band-teal { background: var(--teal); }
+
+    .panel {
+      position: absolute;
+      inset: 0 0 auto 0;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      padding: 0 14px;
+      gap: 8px;
+      background: rgba(24, 24, 33, 0.78);
+      border-bottom: 1px solid rgba(221, 157, 137, 0.45);
+      font-size: 12px;
+      letter-spacing: 0.04em;
+    }
+
+    .cluster { display: flex; align-items: center; gap: 8px; }
+    .tray { margin-left: auto; display: flex; align-items: center; gap: 10px; color: var(--text); }
+    .clock { color: var(--title); margin-left: 4px; }
+    .menu-on { color: var(--title); }
+    .menu-off { color: var(--dim); }
+
+    .mark { width: 16px; height: 16px; display: block; }
+    .mark.lg { width: 28px; height: 28px; }
+
+    .frame {
+      background: var(--surface);
+      border: 1px solid var(--idle);
+      outline: 10px solid rgba(8, 8, 14, 0.35);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .frame.active { border-color: var(--peach); }
+
+    .titlebar {
+      height: 28px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 0 10px;
+      font-size: 12px;
+      color: var(--dim);
+    }
+
+    .frame.active .titlebar { color: var(--title); }
+
+    .titlebar span { flex: 1; text-align: center; margin-right: 46px; }
+
+    .sq { display: inline-block; }
+    .close { width: 11px; height: 11px; background: var(--peach); }
+    .max { width: 9px; height: 9px; border: 1px solid var(--green); }
+    .min { width: 9px; height: 9px; border: 1px solid var(--dim); }
+
+    .konsole {
+      position: absolute;
+      left: 28px;
+      top: 52px;
+      width: 430px;
+      height: 470px;
+    }
+
+    .term {
+      margin: 4px 14px 12px;
+      font-family: var(--font);
+      font-size: 13px;
+      line-height: 1.55;
+      color: var(--text);
+    }
+
+    .user { color: var(--green); }
+    .at { color: var(--dim); }
+    .host { color: var(--mauve); }
+    .path { color: var(--peach); }
+    .prompt { color: var(--sand); }
+    .sel { background: rgba(221, 157, 137, 0.28); }
+
+    .dolphin {
+      position: absolute;
+      right: 28px;
+      top: 96px;
+      width: 420px;
+      height: 400px;
+    }
+
+    .folders {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 12px;
+      padding: 4px 16px 16px;
+    }
+
+    .folder-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      color: var(--title);
+    }
+
+    .folder {
+      width: 56px;
+      height: 44px;
+      clip-path: polygon(0 12px, 18px 12px, 24px 0, 100% 0, 100% 100%, 0 100%);
+    }
+
+    .variations {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 12px;
+    }
+
+    .variation {
+      background: var(--field);
+      padding: 10px;
+    }
+
+    .variation header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      color: var(--title);
+      font-size: 12px;
+    }
+
+    .chips { display: flex; gap: 4px; margin-top: 10px; }
+    .chips i { width: 18px; height: 8px; }
+
+    .parts {
+      display: grid;
+      grid-template-columns: 1.1fr 1fr 0.9fr;
+      gap: 20px;
+    }
+
+    .brand { display: flex; align-items: center; gap: 8px; }
+
+    .launcher {
+      width: 220px;
+      background: var(--surface);
+      border: 1px solid var(--idle);
+      font-family: var(--font);
+    }
+
+    .launcher div { padding: 7px 12px; font-size: 13px; color: var(--text); }
+    .launcher .on { background: var(--mauve); color: var(--field); }
+
+    .splash {
+      position: relative;
+      height: 120px;
+      background: var(--field);
+      overflow: hidden;
+      display: grid;
+      place-items: center;
+    }
+
+    .splash-disc {
+      position: absolute;
+      left: -16px;
+      top: -20px;
+      width: 90px;
+      height: 90px;
+      border-radius: 50%;
+      border: 1px solid var(--mauve);
+    }
+
+    .splash-stripe {
+      position: absolute;
+      right: 12px;
+      top: -8px;
+      width: 22px;
+      height: 140px;
+    }
+
+    .word { text-align: center; }
+    .word strong {
+      display: block;
+      font-family: var(--font);
+      font-size: 28px;
+      font-weight: 400;
+      letter-spacing: 0.18em;
+      color: var(--title);
+    }
+
+    .dots { display: flex; gap: 6px; justify-content: center; margin-top: 8px; }
+    .dots i { width: 8px; height: 8px; }
+
+    .swatch { display: flex; align-items: center; gap: 8px; }
+    .swatch i { width: 28px; height: 16px; }
+    .swatch span { font-size: 12px; color: var(--text); }
+    .swatch.field i { border: 1px solid #45475a; }
+  </style>
+</head>
+<body>
+  <main class="sheet">
+    <header class="intro">
+      <h1>1989 desktop study</h1>
+      <p class="lede">Mocha colors on a Bauhaus poster, with Blade’s thin bar and frosted windows. The top bar keeps the menu icon, the global menu, the status tray, and the clock, all in Hack. This is a study, not an installed theme. Catppuccin Mocha is untouched.</p>
+    </header>
+
+    <section class="stage" aria-label="Desktop">
+      <div class="disc"></div>
+      <div class="stripe">
+        <i class="band-peach"></i>
+        <i class="band-sand"></i>
+        <i class="band-teal"></i>
+      </div>
+
+      <div class="panel">
+        <div class="cluster">
+          <svg class="mark" viewBox="0 0 16 16" aria-label="CachyOS">
+            <polygon points="1,8 5.5,3 8,8 5.5,13" fill="#94e2d5"/>
+            <polygon points="5.5,3 10,5.2 8,8" fill="#a6e3a1"/>
+            <polygon points="5.5,13 10,10.8 8,8" fill="#a6e3a1"/>
+            <rect x="11" y="2" width="2" height="2" fill="#dd9d89"/>
+            <rect x="12.2" y="5" width="2" height="2" fill="#d1b7f1"/>
+            <rect x="11" y="8" width="2" height="2" fill="#f9e2af"/>
+          </svg>
+          <span class="menu-on">File</span>
+          <span class="menu-off">Edit</span>
+          <span class="menu-off">View</span>
+        </div>
+        <div class="tray">
+          <svg width="14" height="14" viewBox="0 0 16 16" aria-label="Network">
+            <path d="M8 12.2a1.1 1.1 0 1 0 0.01 0z" fill="#bdc5e3"/>
+            <path d="M5.2 9.6a4 4 0 0 1 5.6 0" fill="none" stroke="#bdc5e3" stroke-width="1.4"/>
+            <path d="M3 7.2a7 7 0 0 1 10 0" fill="none" stroke="#bdc5e3" stroke-width="1.4"/>
+          </svg>
+          <svg width="14" height="14" viewBox="0 0 16 16" aria-label="Volume">
+            <path d="M3 6h2.2L9 3.5v9L5.2 10H3z" fill="#bdc5e3"/>
+            <path d="M11 6.2a3 3 0 0 1 0 3.6M12.4 4.6a5 5 0 0 1 0 6.8" fill="none" stroke="#bdc5e3" stroke-width="1.2"/>
+          </svg>
+          <svg width="16" height="14" viewBox="0 0 18 14" aria-label="Battery">
+            <rect x="1" y="3" width="13" height="8" fill="none" stroke="#a6e3a1" stroke-width="1.3"/>
+            <rect x="14.5" y="5.2" width="1.5" height="3.6" fill="#a6e3a1"/>
+            <rect x="2.4" y="4.4" width="8" height="5.2" fill="#a6e3a1"/>
+          </svg>
+          <svg width="14" height="14" viewBox="0 0 16 16" aria-label="Notifications">
+            <path d="M8 2.2a4 4 0 0 0-4 4v2.2L2.8 10.2h10.4L12 8.4V6.2a4 4 0 0 0-4-4z" fill="none" stroke="#bdc5e3" stroke-width="1.3"/>
+            <path d="M6.6 11.2a1.4 1.4 0 0 0 2.8 0" fill="none" stroke="#bdc5e3" stroke-width="1.2"/>
+            <circle cx="11.6" cy="3.4" r="1.5" fill="#dd9d89"/>
+          </svg>
+          <span class="clock">22:14</span>
+        </div>
+      </div>
+
+      <section class="frame active konsole">
+        <div class="titlebar">
+          <i class="sq close"></i>
+          <i class="sq max"></i>
+          <i class="sq min"></i>
+          <span>konsole</span>
+        </div>
+        <pre class="term"><span class="user">daniel</span><span class="at"> at </span><span class="host">1989</span><span class="at"> in </span><span class="path">~/code/themes</span>
+<span class="prompt">$ </span>ls
+<span class="sel"> colors  icons  plasma </span></pre>
+      </section>
+
+      <section class="frame dolphin">
+        <div class="titlebar">
+          <i class="sq close"></i>
+          <i class="sq max"></i>
+          <i class="sq min"></i>
+          <span>dolphin — Home</span>
+        </div>
+        <div class="folders">
+          <div class="folder-item"><i class="folder" style="background:#89b4fa"></i>Documents</div>
+          <div class="folder-item"><i class="folder" style="background:#dd9d89"></i>Downloads</div>
+          <div class="folder-item"><i class="folder" style="background:#d1b7f1"></i>Music</div>
+          <div class="folder-item"><i class="folder" style="background:#a6e3a1"></i>Pictures</div>
+          <div class="folder-item"><i class="folder" style="background:#94e2d5"></i>Projects</div>
+          <div class="folder-item"><i class="folder" style="background:#be86c6"></i>Videos</div>
+          <div class="folder-item"><i class="folder" style="background:#f9e2af"></i>Work</div>
+        </div>
+      </section>
+    </section>
+
+    <section>
+      <h2>Color variations</h2>
+      <p class="note">One icon file. The mark takes Highlight, Positive, Neutral, and Negative from the active scheme. The desktop above is Default.</p>
+      <div class="variations" style="margin-top:12px">
+        <article class="variation" style="border:1px solid #dd9d89">
+          <header>
+            <svg class="mark lg" viewBox="0 0 16 16" aria-label="Default">
+              <polygon points="1,8 5.5,3 8,8 5.5,13" fill="#94e2d5"/>
+              <polygon points="5.5,3 10,5.2 8,8" fill="#a6e3a1"/>
+              <polygon points="5.5,13 10,10.8 8,8" fill="#a6e3a1"/>
+              <rect x="11" y="2" width="2" height="2" fill="#dd9d89"/>
+              <rect x="12.2" y="5" width="2" height="2" fill="#d1b7f1"/>
+              <rect x="11" y="8" width="2" height="2" fill="#f9e2af"/>
+            </svg>
+            Default
+          </header>
+          <div class="chips"><i style="background:#dd9d89"></i><i style="background:#a6e3a1"></i><i style="background:#f9e2af"></i></div>
+        </article>
+        <article class="variation" style="border:1px solid #d1b7f1">
+          <header>
+            <svg class="mark lg" viewBox="0 0 16 16" aria-label="Mocha">
+              <polygon points="1,8 5.5,3 8,8 5.5,13" fill="#d1b7f1"/>
+              <polygon points="5.5,3 10,5.2 8,8" fill="#cba6f7"/>
+              <polygon points="5.5,13 10,10.8 8,8" fill="#cba6f7"/>
+              <rect x="11" y="2" width="2" height="2" fill="#f38ba8"/>
+              <rect x="12.2" y="5" width="2" height="2" fill="#fab387"/>
+              <rect x="11" y="8" width="2" height="2" fill="#f9e2af"/>
+            </svg>
+            Mocha
+          </header>
+          <div class="chips"><i style="background:#d1b7f1"></i><i style="background:#cba6f7"></i><i style="background:#f9e2af"></i></div>
+        </article>
+        <article class="variation" style="border:1px solid #7ba5e3">
+          <header>
+            <svg class="mark lg" viewBox="0 0 16 16" aria-label="Blue">
+              <polygon points="1,8 5.5,3 8,8 5.5,13" fill="#7ba5e3"/>
+              <polygon points="5.5,3 10,5.2 8,8" fill="#74b8c6"/>
+              <polygon points="5.5,13 10,10.8 8,8" fill="#74b8c6"/>
+              <rect x="11" y="2" width="2" height="2" fill="#7ba5e3"/>
+              <rect x="12.2" y="5" width="2" height="2" fill="#9ca6df"/>
+              <rect x="11" y="8" width="2" height="2" fill="#65a9c6"/>
+            </svg>
+            Blue
+          </header>
+          <div class="chips"><i style="background:#7ba5e3"></i><i style="background:#74b8c6"></i><i style="background:#65a9c6"></i></div>
+        </article>
+        <article class="variation" style="border:1px solid #6f9a72">
+          <header>
+            <svg class="mark lg" viewBox="0 0 16 16" aria-label="Green">
+              <polygon points="1,8 5.5,3 8,8 5.5,13" fill="#6f9a72"/>
+              <polygon points="5.5,3 10,5.2 8,8" fill="#5e968e"/>
+              <polygon points="5.5,13 10,10.8 8,8" fill="#5e968e"/>
+              <rect x="11" y="2" width="2" height="2" fill="#6f9a72"/>
+              <rect x="12.2" y="5" width="2" height="2" fill="#5e968e"/>
+              <rect x="11" y="8" width="2" height="2" fill="#7a6c48"/>
+            </svg>
+            Green
+          </header>
+          <div class="chips"><i style="background:#6f9a72"></i><i style="background:#5e968e"></i><i style="background:#7a6c48"></i></div>
+        </article>
+        <article class="variation" style="border:1px solid #b46176">
+          <header>
+            <svg class="mark lg" viewBox="0 0 16 16" aria-label="Red">
+              <polygon points="1,8 5.5,3 8,8 5.5,13" fill="#b46176"/>
+              <polygon points="5.5,3 10,5.2 8,8" fill="#9e6570"/>
+              <polygon points="5.5,13 10,10.8 8,8" fill="#9e6570"/>
+              <rect x="11" y="2" width="2" height="2" fill="#b46176"/>
+              <rect x="12.2" y="5" width="2" height="2" fill="#9e6570"/>
+              <rect x="11" y="8" width="2" height="2" fill="#ab7662"/>
+            </svg>
+            Red
+          </header>
+          <div class="chips"><i style="background:#b46176"></i><i style="background:#9e6570"></i><i style="background:#ab7662"></i></div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>Components</h2>
+      <div class="parts" style="margin-top:12px">
+        <div class="col">
+          <h3>Frames</h3>
+          <p class="note">Square hairline. Peach when the window is focused. A flat offset stands in for the soft shadow. Buttons stay on the left.</p>
+          <section class="frame active">
+            <div class="titlebar"><i class="sq close"></i><i class="sq max"></i><i class="sq min"></i><span>konsole — active</span></div>
+          </section>
+          <section class="frame">
+            <div class="titlebar"><i class="sq close"></i><i class="sq max"></i><i class="sq min"></i><span>dolphin — idle</span></div>
+          </section>
+        </div>
+
+        <div class="col">
+          <h3>Launcher</h3>
+          <div class="brand">
+            <svg class="mark lg" viewBox="0 0 16 16" aria-label="CachyOS">
+              <polygon points="1,8 5.5,3 8,8 5.5,13" fill="#94e2d5"/>
+              <polygon points="5.5,3 10,5.2 8,8" fill="#a6e3a1"/>
+              <polygon points="5.5,13 10,10.8 8,8" fill="#a6e3a1"/>
+              <rect x="11" y="2" width="2" height="2" fill="#dd9d89"/>
+              <rect x="12.2" y="5" width="2" height="2" fill="#d1b7f1"/>
+              <rect x="11" y="8" width="2" height="2" fill="#f9e2af"/>
+            </svg>
+            <p class="note">CachyOS menu icon, in the 1989 palette</p>
+          </div>
+          <div class="launcher">
+            <div>Applications</div>
+            <div class="on">Konsole</div>
+            <div>Dolphin</div>
+            <div>System Settings</div>
+          </div>
+          <h3>Splash</h3>
+          <div class="splash">
+            <i class="splash-disc"></i>
+            <div class="splash-stripe">
+              <i class="band-peach"></i>
+              <i class="band-sand"></i>
+              <i class="band-teal"></i>
+            </div>
+            <div class="word">
+              <strong>1989</strong>
+              <div class="dots">
+                <i style="background:#dd9d89"></i>
+                <i style="background:#d1b7f1"></i>
+                <i style="background:#a6e3a1"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <h3>Palette</h3>
+          <p class="note">Taken from the live Mocha scheme. Sand and teal are used only on the poster and the folder tiles.</p>
+          <div class="swatch field"><i style="background:#181821"></i><span>field</span></div>
+          <div class="swatch"><i style="background:#cdd6f4"></i><span>title</span></div>
+          <div class="swatch"><i style="background:#d1b7f1"></i><span>mauve</span></div>
+          <div class="swatch"><i style="background:#dd9d89"></i><span>peach</span></div>
+          <div class="swatch"><i style="background:#a6e3a1"></i><span>green</span></div>
+          <div class="swatch"><i style="background:#f9e2af"></i><span>sand</span></div>
+          <div class="swatch"><i style="background:#94e2d5"></i><span>teal</span></div>
+          <div class="swatch"><i style="background:#89b4fa"></i><span>blue</span></div>
+          <div class="swatch"><i style="background:#be86c6"></i><span>pink</span></div>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

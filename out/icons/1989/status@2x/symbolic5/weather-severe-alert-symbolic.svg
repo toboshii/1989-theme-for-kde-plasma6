@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Weather Severe Alert Symbolic">
+  <path fill="#BDC5E3" d="M12 2h12v2h-12z M10 4h2v2h-2z M22 4h4v2h-4z M8 6h2v2h-2z M24 6h2v2h-2z M4 8h6v2h-6z M26 8h2v2h-2z M2 10h2v2h-2z M26 10h2v2h-2z M0 12h4v2h-4z M26 12h4v2h-4z M0 14h2v2h-2z M28 14h4v2h-4z M0 16h2v2h-2z M30 16h2v2h-2z M0 18h2v2h-2z M30 18h2v2h-2z M2 20h2v2h-2z M28 20h4v2h-4z M4 22h8v2h-8z M20 22h10v2h-10z"/>
+  <path fill="#FF5555" d="M14 12h4v2h-4z M14 14h4v2h-4z M14 16h4v2h-4z M14 18h4v2h-4z M14 20h4v2h-4z M14 22h4v2h-4z M14 28h4v2h-4z M14 30h4v2h-4z"/>
+</svg>

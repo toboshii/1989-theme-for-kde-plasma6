@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Vuescan">
+  <path fill="#50E6FF" d="M24 12h52v4h-52z M24 16h52v4h-52z M24 20h52v4h-52z M24 24h52v4h-52z M24 28h52v4h-52z M24 32h52v4h-52z M24 36h52v4h-52z M24 40h80v4h-80z M24 44h80v4h-80z M24 48h12v4h-12z M92 48h12v4h-12z M24 52h80v4h-80z M24 56h12v4h-12z M92 56h12v4h-12z M24 60h80v4h-80z M24 64h12v4h-12z M92 64h12v4h-12z M24 68h80v4h-80z"/>
+  <path fill="#FF9CBE" d="M24 76h80v4h-80z M24 80h12v4h-12z M92 80h12v4h-12z M24 84h80v4h-80z M24 88h12v4h-12z M92 88h12v4h-12z M24 92h80v4h-80z M24 96h80v4h-80z M24 100h80v4h-80z M24 104h80v4h-80z M24 108h80v4h-80z M24 112h80v4h-80z"/>
+  <path fill="#297CD2" d="M76 12h4v4h-4z M76 16h8v4h-8z M76 20h12v4h-12z M76 24h16v4h-16z M76 28h20v4h-20z M76 32h24v4h-24z M76 36h28v4h-28z"/>
+  <path fill="#057093" d="M36 48h56v4h-56z M36 56h56v4h-56z M36 64h56v4h-56z"/>
+  <path fill="#AD1F4E" d="M36 80h56v4h-56z M36 88h56v4h-56z"/>
+  <path fill="#CF1928" d="M8 72h112v4h-112z"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Kwallet">
+  <path fill="#B59660" d="M12 28h4v4h-4z M12 32h104v4h-104z M12 36h104v4h-104z M12 40h104v4h-104z M12 44h104v4h-104z M12 48h104v4h-104z M12 52h104v4h-104z M12 56h108v4h-108z M12 60h76v4h-76z M12 64h72v4h-72z M12 68h68v4h-68z M12 72h68v4h-68z M12 76h68v4h-68z M12 80h68v4h-68z M12 84h72v4h-72z M12 88h80v4h-80z M12 92h104v4h-104z M12 96h104v4h-104z M12 100h104v4h-104z M12 104h104v4h-104z M12 108h104v4h-104z M16 112h100v4h-100z"/>
+  <path fill="#88622F" d="M12 12h88v4h-88z M12 16h88v4h-88z M12 20h88v4h-88z M12 24h88v4h-88z M16 28h84v4h-84z M88 60h36v4h-36z M84 64h40v4h-40z M80 68h8v4h-8z M104 68h20v4h-20z M80 72h8v4h-8z M104 72h20v4h-20z M80 76h8v4h-8z M104 76h20v4h-20z M80 80h12v4h-12z M100 80h24v4h-24z M84 84h40v4h-40z M92 88h28v4h-28z"/>
+  <path fill="#E3E3E3" d="M88 68h16v4h-16z M88 72h16v4h-16z M88 76h16v4h-16z M92 80h8v4h-8z"/>
+</svg>

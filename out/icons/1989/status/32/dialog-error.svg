@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" shape-rendering="crispEdges" role="img" aria-label="Dialog Error">
+  <path fill="#FF714F" d="M14 0h4v2h-4z M8 2h16v2h-16z M6 4h20v2h-20z M4 6h10v2h-10z M18 6h10v2h-10z M2 8h12v2h-12z M18 8h12v2h-12z M2 10h12v2h-12z M18 10h12v2h-12z M2 12h12v2h-12z M18 12h12v2h-12z M0 14h14v2h-14z M18 14h14v2h-14z M0 16h14v2h-14z M18 16h14v2h-14z M2 18h28v2h-28z M2 20h28v2h-28z M2 22h12v2h-12z M18 22h12v2h-12z M4 24h10v2h-10z M18 24h10v2h-10z M6 26h20v2h-20z M8 28h16v2h-16z"/>
+  <path fill="#FFFFFF" d="M14 6h4v2h-4z M14 8h4v2h-4z M14 10h4v2h-4z M14 12h4v2h-4z M14 14h4v2h-4z M14 16h4v2h-4z M14 22h4v2h-4z M14 24h4v2h-4z"/>
+  <path fill="#FF9149" d="M14 30h4v2h-4z"/>
+</svg>

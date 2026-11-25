@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges" role="img" aria-label="Gnome Dev Removable">
+  <path fill="#696969" d="M36 2h4v2h-4z M58 2h4v2h-4z M36 4h4v2h-4z M58 4h4v2h-4z M36 6h4v2h-4z M58 6h4v2h-4z M36 8h4v2h-4z M58 8h4v2h-4z M36 10h4v2h-4z M58 10h4v2h-4z M36 12h4v2h-4z M58 12h4v2h-4z M36 14h4v2h-4z M58 14h4v2h-4z M36 16h26v2h-26z M36 18h26v2h-26z M36 20h4v2h-4z M54 20h8v2h-8z M36 22h4v2h-4z M42 22h4v2h-4z M54 22h8v2h-8z M36 24h4v2h-4z M42 24h4v2h-4z M54 24h8v2h-8z M38 26h2v2h-2z M54 26h8v2h-8z M4 30h2v2h-2z M58 30h2v2h-2z M4 32h2v2h-2z M58 32h2v2h-2z M4 34h2v2h-2z M58 34h2v2h-2z M4 36h2v2h-2z M58 36h2v2h-2z M4 38h2v2h-2z M58 38h2v2h-2z M4 40h2v2h-2z M12 40h6v2h-6z M40 40h2v2h-2z M58 40h2v2h-2z M4 42h2v2h-2z M58 42h2v2h-2z M4 44h2v2h-2z M58 44h2v2h-2z"/>
+  <path fill="#E1E3E6" d="M40 4h18v2h-18z M40 6h18v2h-18z M40 8h18v2h-18z M40 10h18v2h-18z M40 12h18v2h-18z M40 14h18v2h-18z M16 18h20v2h-20z M14 20h22v2h-22z M40 20h14v2h-14z M12 22h24v2h-24z M40 22h2v2h-2z M46 22h8v2h-8z M10 24h26v2h-26z M40 24h2v2h-2z M46 24h8v2h-8z M8 26h30v2h-30z M40 26h14v2h-14z M6 28h52v2h-52z M4 46h56v2h-56z"/>
+  <path fill="#2D2D2D" d="M6 30h52v2h-52z M6 32h52v2h-52z M6 34h52v2h-52z M6 36h8v2h-8z M16 36h42v2h-42z M6 38h6v2h-6z M18 38h40v2h-40z M6 40h6v2h-6z M18 40h22v2h-22z M42 40h6v2h-6z M50 40h8v2h-8z M6 42h52v2h-52z M6 44h52v2h-52z"/>
+  <path fill="#3C623C" d="M12 38h2v2h-2z M48 40h2v2h-2z"/>
+  <path fill="#0069BD" d="M40 2h18v2h-18z"/>
+  <path fill="#00B300" d="M16 38h2v2h-2z"/>
+  <path fill="#01FD01" d="M14 36h2v2h-2z"/>
+  <path fill="#81FF81" d="M14 38h2v2h-2z"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="CachyOS">
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Highlight { color:#dd9d89; }
+    .ColorScheme-PositiveText { color:#a6e3a1; }
+    .ColorScheme-NeutralText { color:#d1b7f1; }
+    .ColorScheme-NegativeText { color:#f9e2af; }
+  </style>
+  <path class="ColorScheme-Highlight" fill="currentColor" d="M88 16h16v4h-16z M88 20h16v4h-16z M88 24h16v4h-16z M40 28h8v4h-8z M88 28h16v4h-16z M36 32h12v4h-12z M32 36h20v4h-20z M28 40h24v4h-24z M24 44h32v4h-32z M20 48h36v4h-36z M16 52h44v4h-44z M12 56h48v4h-48z M8 60h56v4h-56z M8 64h56v4h-56z M12 68h48v4h-48z M16 72h44v4h-44z M20 76h36v4h-36z M24 80h32v4h-32z M28 84h24v4h-24z M32 88h20v4h-20z M36 92h12v4h-12z M40 96h8v4h-8z M40 100h4v4h-4z"/>
+  <path class="ColorScheme-PositiveText" fill="currentColor" d="M44 24h4v4h-4z M48 28h8v4h-8z M48 32h16v4h-16z M52 36h20v4h-20z M52 40h28v4h-28z M56 44h20v4h-20z M56 48h20v4h-20z M60 52h12v4h-12z M60 56h8v4h-8z M64 60h4v4h-4z M60 68h8v4h-8z M60 72h12v4h-12z M56 76h20v4h-20z M56 80h20v4h-20z M52 84h28v4h-28z M52 88h20v4h-20z M48 92h16v4h-16z M48 96h8v4h-8z M44 100h4v4h-4z"/>
+  <path class="ColorScheme-NeutralText" fill="currentColor" d="M96 40h20v4h-20z M96 44h20v4h-20z M96 48h20v4h-20z M96 52h20v4h-20z"/>
+  <path class="ColorScheme-NegativeText" fill="currentColor" d="M88 64h16v4h-16z M88 68h16v4h-16z M88 72h16v4h-16z M88 76h16v4h-16z"/>
+</svg>

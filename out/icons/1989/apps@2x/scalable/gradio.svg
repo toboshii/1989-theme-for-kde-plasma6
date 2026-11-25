@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Gradio">
+  <path fill="#59646E" d="M8 16h28v4h-28z M4 20h32v4h-32z M4 24h32v4h-32z M4 28h112v4h-112z M4 32h116v4h-116z M4 36h116v4h-116z M4 40h116v4h-116z M4 44h116v4h-116z M4 48h116v4h-116z M4 52h84v4h-84z M96 52h8v4h-8z M112 52h8v4h-8z M4 56h84v4h-84z M96 56h4v4h-4z M112 56h8v4h-8z M4 60h88v4h-88z M96 60h8v4h-8z M108 60h12v4h-12z M4 64h116v4h-116z M4 68h116v4h-116z M4 72h116v4h-116z M4 76h116v4h-116z M4 80h116v4h-116z M4 84h116v4h-116z M4 88h16v4h-16z M104 88h16v4h-16z M4 92h16v4h-16z M108 92h12v4h-12z M4 96h16v4h-16z M108 96h12v4h-12z M4 100h16v4h-16z M108 100h12v4h-12z M4 104h16v4h-16z M104 104h16v4h-16z M4 108h16v4h-16z M104 108h16v4h-16z M4 112h116v4h-116z M8 116h108v4h-108z"/>
+  <path fill="#1A60DA" d="M96 4h16v4h-16z M76 8h32v4h-32z M60 12h32v4h-32z M40 16h32v4h-32z M36 20h16v4h-16z"/>
+  <path fill="#252525" d="M20 88h84v4h-84z M20 92h88v4h-88z M20 96h88v4h-88z M20 100h88v4h-88z M20 104h84v4h-84z"/>
+  <path fill="#53C2F3" d="M88 52h8v4h-8z M88 56h8v4h-8z M92 60h4v4h-4z M20 108h84v4h-84z"/>
+  <path fill="#6CE0F8" d="M104 52h8v4h-8z M100 56h12v4h-12z M104 60h4v4h-4z"/>
+</svg>

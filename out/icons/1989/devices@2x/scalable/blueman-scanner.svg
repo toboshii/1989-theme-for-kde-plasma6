@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Blueman Scanner">
+  <path fill="#EFF0F1" d="M16 20h96v4h-96z M16 24h96v4h-96z M16 28h8v4h-8z M104 28h8v4h-8z M16 32h8v4h-8z M108 32h4v4h-4z M16 36h8v4h-8z M104 36h8v4h-8z M16 40h8v4h-8z M104 40h8v4h-8z M16 44h8v4h-8z M108 44h4v4h-4z M16 48h8v4h-8z M28 48h44v4h-44z M108 48h4v4h-4z M16 52h56v4h-56z M104 52h8v4h-8z M16 56h4v4h-4z M24 56h48v4h-48z M108 56h4v4h-4z M16 60h56v4h-56z M108 60h4v4h-4z M16 64h56v4h-56z M104 64h8v4h-8z M16 68h56v4h-56z M104 68h8v4h-8z M16 72h56v4h-56z M104 72h8v4h-8z M16 76h4v4h-4z M28 76h44v4h-44z M108 76h4v4h-4z M16 80h56v4h-56z M104 80h8v4h-8z M16 84h4v4h-4z M24 84h48v4h-48z M108 84h4v4h-4z M16 88h8v4h-8z M28 88h44v4h-44z M108 88h4v4h-4z M16 92h56v4h-56z M104 92h8v4h-8z M16 96h56v4h-56z M104 96h8v4h-8z M16 100h8v4h-8z M104 100h8v4h-8z M16 104h96v4h-96z M16 108h12v4h-12z M100 108h12v4h-12z M20 112h88v4h-88z"/>
+  <path fill="#2181D2" d="M72 68h32v4h-32z M72 72h32v4h-32z M20 76h8v4h-8z M72 76h36v4h-36z M72 80h32v4h-32z M20 84h4v4h-4z M72 84h36v4h-36z"/>
+  <path fill="#2C6294" d="M24 28h80v4h-80z M24 32h84v4h-84z M24 36h80v4h-80z M24 40h80v4h-80z M24 44h84v4h-84z M24 48h4v4h-4z M72 48h36v4h-36z"/>
+  <path fill="#1B91F2" d="M24 88h4v4h-4z M72 88h36v4h-36z M72 92h32v4h-32z M72 96h32v4h-32z M24 100h80v4h-80z"/>
+  <path fill="#2771B1" d="M72 52h32v4h-32z M20 56h4v4h-4z M72 56h36v4h-36z M104 60h4v4h-4z M72 64h32v4h-32z"/>
+  <path fill="#18222A" d="M20 12h88v4h-88z M16 16h96v4h-96z M28 108h64v4h-64z M96 108h4v4h-4z"/>
+  <path fill="#11D116" d="M92 108h4v4h-4z"/>
+  <path fill="#84CBFE" d="M72 60h32v4h-32z"/>
+</svg>

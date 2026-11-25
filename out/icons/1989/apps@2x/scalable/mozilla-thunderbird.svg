@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" shape-rendering="crispEdges" role="img" aria-label="Mozilla Thunderbird">
+  <path fill="#ED3F59" d="M64 36h24v4h-24z M56 40h40v4h-40z M72 44h28v4h-28z M28 48h12v4h-12z M76 48h40v4h-40z M24 52h12v4h-12z M80 52h40v4h-40z M28 56h4v4h-4z M84 56h36v4h-36z M88 60h32v4h-32z M88 64h32v4h-32z M88 68h32v4h-32z M92 72h28v4h-28z M92 76h28v4h-28z M92 80h24v4h-24z M12 84h16v4h-16z M60 84h56v4h-56z M12 88h24v4h-24z M52 88h64v4h-64z M16 92h68v4h-68z M88 92h24v4h-24z M16 96h92v4h-92z M20 100h88v4h-88z M24 104h80v4h-80z M28 108h72v4h-72z M32 112h60v4h-60z M40 116h48v4h-48z M56 120h16v4h-16z"/>
+  <path fill="#E37385" d="M52 20h40v4h-40z M48 24h56v4h-56z M40 28h4v4h-4z M48 28h60v4h-60z M36 32h76v4h-76z M32 36h32v4h-32z M88 36h24v4h-24z M32 40h24v4h-24z M96 40h20v4h-20z M28 44h20v4h-20z M100 44h16v4h-16z"/>
+  <path fill="#A93159" d="M48 44h24v4h-24z M40 48h36v4h-36z M36 52h8v4h-8z M48 52h32v4h-32z M60 56h24v4h-24z M64 60h24v4h-24z M64 64h20v4h-20z M64 72h28v4h-28z M64 76h28v4h-28z"/>
+  <path fill="#CA3859" d="M84 64h4v4h-4z M64 68h24v4h-24z M16 80h8v4h-8z M60 80h32v4h-32z M12 92h4v4h-4z M84 92h4v4h-4z"/>
+  <path fill="#E8BCC4" d="M48 12h20v4h-20z M44 16h12v4h-12z M40 20h8v4h-8z M36 24h8v4h-8z M36 28h4v4h-4z M32 32h4v4h-4z"/>
+  <path fill="#DD919E" d="M68 12h16v4h-16z M56 16h32v4h-32z M48 20h4v4h-4z M92 20h8v4h-8z"/>
+  <path fill="#C9FFFC" d="M44 24h4v4h-4z M44 28h4v4h-4z"/>
+</svg>
