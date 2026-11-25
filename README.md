@@ -38,6 +38,25 @@ The installable archives, one file per Plasma component, are packed separately f
 
 https://github.com/cdtenzi/1989-theme-for-kde-plasma6/releases/download/v1.0.0/1989-theme-for-kde-plasma6-1.0.0-installable.tar.gz
 
+## KDE Store
+
+Each piece is its own product, so Get New Stuff installs it into the matching directory. The same pages are on OpenDesktop.
+
+| Piece | Page |
+| --- | --- |
+| Global theme | https://store.kde.org/p/2382709 |
+| Plasma style | https://store.kde.org/p/2382710 |
+| Window decorations | https://store.kde.org/p/2382711 |
+| Color schemes | https://store.kde.org/p/2382712 |
+| Icons | https://store.kde.org/p/2382713 |
+| Cursors | https://store.kde.org/p/2382714 |
+| Wallpaper | https://store.kde.org/p/2382715 |
+| GTK | https://store.kde.org/p/2382716 |
+| SDDM | https://store.kde.org/p/2382717 |
+| Konsole | https://store.kde.org/p/2382718 |
+
+The global theme page also offers the full archive. Installing the global theme applies the look-and-feel and the splash screen. Install the matching Plasma style, window decoration, color scheme, icons, cursors, wallpaper, and GTK theme from their own pages. The full archive installs every piece with `./install.sh`.
+
 ## Install the full theme
 
 From the downloaded archive:
