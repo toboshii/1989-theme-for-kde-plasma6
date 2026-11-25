@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "aurorae",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "1989"
+      }
+    ],
+    "Id": "1989Blue",
+    "License": "GPL-3.0+",
+    "Name": "1989 Blue",
+    "Description": "Square hairline frame on the Mocha layout",
+    "EnabledByDefault": true,
+    "Version": "1.0.0",
+    "Category": "Plasma 6 Window Decorations",
+    "ServiceTypes": [
+      "aurorae"
+    ]
+  }
+}

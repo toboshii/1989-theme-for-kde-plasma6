@@ -494,6 +494,25 @@ X-KDE-PluginInfo-License=GPL-3.0+
 X-KDE-PluginInfo-EnabledByDefault=true
 """,
     )
+    write(
+        base / "metadata.json",
+        """{
+  "KPackageStructure": "aurorae",
+  "KPlugin": {
+    "Authors": [{"Name": "1989"}],
+    "Category": "Plasma 6 Window Decorations",
+    "ServiceTypes": ["aurorae"],
+    "EnabledByDefault": true,
+    "Id": "%s",
+    "License": "GPL-3.0+",
+    "Name": "%s",
+    "Description": "Square glass window frame",
+    "Version": "1.0.0"
+  }
+}
+"""
+        % (key, v["name"]),
+    )
     marker(base)
 
 
