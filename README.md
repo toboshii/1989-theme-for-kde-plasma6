@@ -113,6 +113,24 @@ Icons, cursors, and the wallpaper are shared, so install those once. The SDDM ar
 
 These paths are the ones the KDE Store uses. Global Theme and Plasma Theme install through `kpackagetool6`. Aurorae, wallpaper, icons, cursors, GTK, and color schemes are archives extracted into their directories. On the store, each archive belongs to its own category. Installing the Global Theme there applies the look-and-feel, including the splash screen. The other pieces are installed from their own categories. The full archive does all of that with one `./install.sh` run. `./install.sh` places the GTK theme in `~/.local/share/themes` and the cursor theme in `~/.local/share/icons`, then links the cursors into `~/.icons`.
 
+## Add an icon
+
+`scripts/add_icon.py` adds an SVG or PNG icon to the theme in `out/icons/1989`. It flattens the drawing into an arcade sprite the same way as the rest of the set. It then writes the icon to every size directory that `index.theme` lists for that context, with the `@2x` twins. An app icon is also saved in `scripts/tuned/`, so a full rebuild keeps it. The script needs `rsvg-convert` from librsvg.
+
+```bash
+python3 scripts/add_icon.py ~/Downloads/org.mozilla.firefox.svg
+```
+
+The file name is the icon name. Use `--name` to change it. Use `--context` for an icon that is not an app, such as `places` or `actions`. A name that ends in `-symbolic` goes to the symbolic directories.
+
+To get a drop target, make a launcher on the desktop, then drop icon files on it:
+
+```bash
+python3 scripts/add_icon.py --make-launcher
+```
+
+Run `./install.sh` again to install the new icons.
+
 ## Credits and licenses
 
 The global theme, color schemes, window decorations, and SDDM greeter are released under GPLv3, as declared in their metadata. The wallpaper metadata declares CC-BY-SA-4.0.
