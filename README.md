@@ -123,6 +123,14 @@ python3 scripts/add_icon.py ~/Downloads/org.mozilla.firefox.svg
 
 The file name is the icon name. Use `--name` to change it. Use `--context` for an icon that is not an app, such as `places` or `actions`. A name that ends in `-symbolic` goes to the symbolic directories.
 
+You can also name an installed app. The script finds its desktop entry, takes the icon the entry names from the icon themes or pixmaps, and writes the sprite under that icon name. This works for pacman and AUR packages, Flatpak apps, and AppImages that are in the app menu. A pacman package name works too.
+
+```bash
+python3 scripts/add_icon.py firefox gimp visual-studio-code-bin
+```
+
+A `.desktop` file or an `.AppImage` file also works. The script reads the icon inside an AppImage without running it. This needs `unsquashfs` from squashfs-tools. If a desktop entry gives its icon as a file path, no icon theme can replace it. The script tells you which `Icon=` value to set.
+
 To get a drop target, make a launcher on the desktop, then drop icon files on it:
 
 ```bash
