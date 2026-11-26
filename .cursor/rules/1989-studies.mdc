@@ -9,6 +9,7 @@ alwaysApply: true
 
 - Square hairline. Hack only. Field `#181821`. Flat color. Frosted field, no gloss.
 - Default accent is peach `#dd9d89`. The focused frame and the panel hairline use the accent. Buttons sit on the left: filled accent square, green hairline square, dim hairline square.
+- A Plasma list row keeps body text when highlighted, so its highlight is an accent wash (hover 28%, selected 20%, both 35%) with a 1px square accent hairline. Never a solid light fill. Qt app views keep the solid mauve selection with field-colored text.
 - Sand and teal are poster, splash, and the Default Cachy mark. They are not text or focus colors.
 - Five variants only: Default, Mocha, Blue, Green, Red. A variant recolors the accent and the mark. Layout, field, and Hack stay. Catppuccin Mocha stays untouched.
 - A hand-drawn icon and a scalable app icon are a 64×64 canvas: `width="64"`, `height="64"`, `viewBox="0 0 64 64"`. A sized theme file uses that directory's canvas, and its `@2x` file uses twice that canvas.

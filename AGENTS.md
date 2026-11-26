@@ -18,7 +18,7 @@ Default is the desktop drawn in the study. Use these values.
 | title | `#cdd6f4` | Active titles, clock, folder labels, wordmark |
 | text | `#bdc5e3` | Body, idle menu rows |
 | dim | `#8d939f` | Idle titles, idle menu words, minimize hairline |
-| mauve | `#d1b7f1` | Poster disc stroke, selection fill, prompt host |
+| mauve | `#d1b7f1` | Poster disc stroke, app-view selection fill, prompt host |
 | peach | `#dd9d89` | Default accent: focus, panel hairline, close button |
 | green | `#a6e3a1` | Positive: battery, prompt user, maximize hairline |
 | sand | `#f9e2af` | Poster, splash, folder tiles, prompt mark, Default mark |
@@ -83,7 +83,19 @@ A focused frame uses a 1px accent border. An idle frame uses the idle hairline. 
 
 ## Launcher
 
-Width 220. Frosted surface, 1px idle hairline, Hack at 13px. Row padding `7px 12px`. The selected row is mauve with field-colored text. Other rows are body text on a clear background.
+Width 220. Frosted surface, 1px idle hairline, Hack at 13px. Row padding `7px 12px`. Other rows are body text on a clear background.
+
+## List highlight
+
+Plasma lists (the launcher, the clipboard, applet lists) keep body text on a highlighted row. The highlight must stay dark enough for that text. The highlighted row is an accent wash with a 1px accent hairline, square, in `widgets/viewitem.svgz`:
+
+- hover: accent at 28%
+- selected: accent at 20%
+- selected and hovered: accent at 35%
+
+The accent comes from `ColorScheme-ButtonFocus`, so each variant uses its own accent. Do not fill a Plasma row with a solid or light color.
+
+Qt app views (Dolphin, settings lists, menus) switch to the selection text color. There the selection is solid mauve, or the variant's Selection color, with field-colored text.
 
 ## Terminal
 
@@ -140,6 +152,7 @@ A change lands only when it matches the study on all of these:
 
 - square hairline, Hack, field `#181821`, flat color
 - accent and mark colors from the variant row, not a new palette
+- a Plasma list highlight is an accent wash with a 1px accent hairline, never a solid fill under body text
 - buttons on the left; the study and the splash keep the poster disc on the left and three bands on the right
 - a desktop wallpaper is a 1980s photograph with a visible sun, or with neon when there is no sun, in the teal and peach film grade
 - a hand-drawn or scalable app icon is on a 64×64 canvas, in late-80s Atari arcade form; a sized file uses its directory canvas and `@2x` uses twice that canvas
